@@ -8,7 +8,8 @@ There are two main approaches to inferring link flows: node-based approach and l
 
 # Node-based Approach
 Let G = (V*,E) denote a transportation network, where V* denotes the set of nodes and E the set of links. 
-V* is here further sub-divided into centroids and non-centroids. Nodes 1, 2,8 and 9 are centroids. The non-centroid nodes are all other nodes in the network. 
+V* is here further sub-divided into centroids and non-centroids. Centroids are the nodes where traffic originates/is destined to. (Nodes 1, 2,8 and 9 are centroids.)
+The non-centroid nodes are all other nodes in the network (denote as V). Assume |V|=n and |E|=m. 
 ##### v = [v13, v14, v23, v24, v35, v36, v45, v47, v56, v57, v68, v69, v78, v79]T. (The v can be seen as E.) 
 All unobserved link flows can be inferred from the observed flows. 
 
@@ -40,3 +41,10 @@ The matrix B is not unique, another solution is (36, 47, 57, 69, 79).
 
 ## Proposition 2
 (Minimum number of sensors for full observability). Given a transporation network G = (V*, E). In order to observe all link flows in G, at a minimum, sensors need to be installed on (m-n)/m * 100% of the links. 
+(Proof: The number of nodes means the number of formulation of flow conservation and hence means the number of unknown we can solve. So at most n link flows can be infered from sensor measurements. Hence, at least m-n link flows need to be measured.) 
+
+## Proposition 3
+(Integrality of inferred link flows). If vN is integral, vB will be integral as well. 
+(Proof: From the perspective of flow conservation, each input or output components is caculated from adding or substracting.) 
+
+##
