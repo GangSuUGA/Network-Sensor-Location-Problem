@@ -1,5 +1,6 @@
 #### Paper Link:
 
+#### Hu, Shou-Ren et al. “Identification of vehicle sensor locations for link-based network traffic applications.” Transportation Research Part B-methodological 43 (2009): 873-894.https://www.sciencedirect.com/science/article/pii/S0191261509000356 
 #### Castillo, E. et al. “Matrix Tools for General Observability Analysis in Traffic Networks.” IEEE Transactions on Intelligent Transportation Systems 11 (2010): 799-813. https://ieeexplore.ieee.org/document/5482130
 ___________________________________________________________________________________________________________________________________________________________________________________
 
