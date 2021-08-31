@@ -17,6 +17,7 @@ All unobserved link flows can be inferred from the observed flows.
 The node-link incidence matrix A* of the network G is defined as the matrix with entriesgiven by: 
  
  ![image](https://user-images.githubusercontent.com/88390140/131421516-35edad06-0749-4a56-bda7-37b5226355b2.png)
+ 
  The modified node-link incidence matrix A is obtained by deleting the rows in A* associated with the centroids. 
  ![image](https://user-images.githubusercontent.com/88390140/131421836-809f20ae-de45-4f63-8ced-6b33e13f28a6.png)
 
@@ -26,4 +27,14 @@ The node-link incidence matrix A* of the network G is defined as the matrix with
 ![image](https://user-images.githubusercontent.com/88390140/131422965-f927162c-5430-4741-8619-91889728077d.png)
 
 The critial issue is to ensure the existence of (and find) the invertible matrix B. 
-It is always possible to partition A into two matrices B and N, where B is an n-by-n invertible matrix. 
+## Proposition 1
+It is always possible to partition A into two matrices B and N, where B is an n-by-n invertible matrix. (Proof in reference) 
+
+### One Solution 
+![image](https://user-images.githubusercontent.com/88390140/131424603-d23982f1-d893-4a9e-b220-8882fde1d2a7.png)
+The Vehicular flows on the links (13, 14, 35, 36, 47) can be infered from the sensor measurements on the remainder of the links via 
+![image](https://user-images.githubusercontent.com/88390140/131422965-f927162c-5430-4741-8619-91889728077d.png)
+The matrix B is not unique, another solution is (36, 47, 57, 69, 79). 
+
+## Proposition 2
+(Minimum number of sensors for full observability). 
