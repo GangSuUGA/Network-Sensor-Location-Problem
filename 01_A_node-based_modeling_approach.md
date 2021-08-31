@@ -26,6 +26,7 @@ The node-link incidence matrix A* of the network G is defined as the matrix with
 ![image](https://user-images.githubusercontent.com/88390140/131422958-c9c03726-35a8-432a-b15c-3d397fbf3c5b.png)
 ![image](https://user-images.githubusercontent.com/88390140/131422965-f927162c-5430-4741-8619-91889728077d.png)
 
+(B: an invertible matrix; N: a not necessarily invertible matrix.)
 The critial issue is to ensure the existence of (and find) the invertible matrix B. 
 ## Proposition 1
 It is always possible to partition A into two matrices B and N, where B is an n-by-n invertible matrix. (Proof in reference) 
