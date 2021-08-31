@@ -5,7 +5,6 @@ https://www.sciencedirect.com/science/article/pii/S0191261512000161
 
 Link flow inference is to infer the unobserved link flows based on the observed link flows. 
 There are two main approaches to inferring link flows: node-based approach and link-based approach. 
-But here we only focus on node-based approach. 
 
 # Node-based Approach
 Let G = (V*,E) denote a transportation network, where V* denotes the set of nodes and E the set of links. 
