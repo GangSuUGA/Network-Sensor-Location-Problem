@@ -1,12 +1,14 @@
 #### Paper Link:
-#### Ng, Manwo. “Synergistic sensor location for link flow inference without path enumeration: A node-based approach.” Transportation Research Part B-methodological 46 (2012): 781-788.
-https://www.sciencedirect.com/science/article/pii/S0191261512000161
-==========================================================================
+#### Ng, Manwo. “Synergistic sensor location for link flow inference without path enumeration: A node-based approach.” Transportation Research Part B-methodological 46 (2012): 781-788. https://www.sciencedirect.com/science/article/pii/S0191261512000161
+#### Xu, Xiangdong et al. “Robust network sensor location for complete link flow observability under uncertainty.” Transportation Research Part B-methodological 88 (2016): 1-20. http://www.math.wm.edu/~rrkinc/hmk_current/NLT/SensorLoc2016.pdf
+#### Castillo, E. et al. “Matrix Tools for General Observability Analysis in Traffic Networks.” IEEE Transactions on Intelligent Transportation Systems 11 (2010): 799-813. https://ieeexplore.ieee.org/document/5482130
+___________________________________________________________________________________________________________________________________________________________________________________
+
 
 Link flow inference is to infer the unobserved link flows based on the observed link flows. 
 There are two main approaches to inferring link flows: node-based approach and link-based approach. 
 Specifically, the node-based approach uses the non-centroid node-link flow conservation equations while the link-based approach uses the link-path flow conservation equations.
-To avoid path enumeration (which is impractical for large-scale networks), researchers adopt the node-based approach. (X. Xu et al./Transportation Research Part B 88 (2016) 1-20)
+To avoid path enumeration (which is impractical for large-scale networks), researchers adopt the node-based approach. (X. Xu et al., 2016)
 
 # Node-based Approach
 Let G = (V*,E) denote a transportation network, where V* denotes the set of nodes and E the set of links. 
