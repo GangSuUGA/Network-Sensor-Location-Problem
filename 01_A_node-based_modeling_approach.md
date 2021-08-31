@@ -1,4 +1,4 @@
-#### Resources Link:
+#### Paper Link:
 #### Ng, Manwo. “Synergistic sensor location for link flow inference without path enumeration: A node-based approach.” Transportation Research Part B-methodological 46 (2012): 781-788.
 https://www.sciencedirect.com/science/article/pii/S0191261512000161
 ==========================================================================
