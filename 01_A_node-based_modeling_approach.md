@@ -39,4 +39,4 @@ The Vehicular flows on the links (13, 14, 35, 36, 47) can be infered from the se
 The matrix B is not unique, another solution is (36, 47, 57, 69, 79). 
 
 ## Proposition 2
-(Minimum number of sensors for full observability). 
+(Minimum number of sensors for full observability). Given a transporation network G = (V*, E). In order to observe all link flows in G, at a minimum, sensors need to be installed on (m-n)/m * 100% of the links. 
