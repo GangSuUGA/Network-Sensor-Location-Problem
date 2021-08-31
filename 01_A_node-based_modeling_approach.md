@@ -7,16 +7,17 @@ Link flow inference is to infer the unobserved link flows based on the observed 
 There are two main approaches to inferring link flows: node-based approach and link-based approach. 
 
 # Node-based Approach
-Let G = (V,E) denote a transportation network, where V denotes the set of nodes andEthe set of links. 
-V is here further sub-divided into centroids and non-centroids. Nodes 1, 2,8 and 9 are centroids. The non-centroid nodes are all other nodes in the network. 
-The non-centroid nodes can be determined by the known observability via centroids. 
+Let G = (V*,E) denote a transportation network, where V* denotes the set of nodes and E the set of links. 
+V* is here further sub-divided into centroids and non-centroids. Nodes 1, 2,8 and 9 are centroids. The non-centroid nodes are all other nodes in the network. 
 ##### v = [v13, v14, v23, v24, v35, v36, v45, v47, v56, v57, v68, v69, v78, v79]T. (The v can be seen as E.) 
+All unobserved link flows can be inferred from the observed flows. 
 
 ![image](https://user-images.githubusercontent.com/88390140/131421589-186152da-d561-46b6-a595-d8f268416233.png)
 
-The node-link incidence matrixA  of the network G is defined as the matrix with entriesgiven by: 
+The node-link incidence matrix A* of the network G is defined as the matrix with entriesgiven by: 
  
  ![image](https://user-images.githubusercontent.com/88390140/131421516-35edad06-0749-4a56-bda7-37b5226355b2.png)
+ The modified node-link incidence matrix A is obtained by deleting the rows in A* associated with the centroids. 
  ![image](https://user-images.githubusercontent.com/88390140/131421836-809f20ae-de45-4f63-8ced-6b33e13f28a6.png)
 
 ### Flow Conservation (Input = Output):     A v = 0   
