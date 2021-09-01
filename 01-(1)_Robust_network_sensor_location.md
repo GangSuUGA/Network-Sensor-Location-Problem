@@ -21,7 +21,7 @@ For large-size relistic network, it is difficult to enumerate and evaluate all p
 ## Solution:
 Each flow conservation equation is only able to independently determine a single unobserved link flow.
 The fewer unobserved links involved in the flow conservation equation, the lower chance of accumulating measurement errors and uncertainty. 
-So, the goal becomes to **minimize the largest or the cumulative number of unobserved links connected to each non-centroid node**. 
+So, the goal becomes to **minimize the largest(*model 1*) or the cumulative number(*model 2*) of unobserved links connected to each non-centroid node**. 
 
 
 
