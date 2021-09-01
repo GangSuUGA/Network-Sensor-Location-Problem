@@ -5,10 +5,12 @@ ________________________________________________________________________________
 In this paper, the author provide a **robust** network sensor location model for complete link flow inference via a node-based approach while **considering the propagation of measurement errors**. 
 
 ## Sources of Error
-(1) Loop data are often missing or invalid due to communication error or hardware breakdown.  
-(2) Payne et al. (1976) identified various types of detector errors, such as stuck sensors, hanging on or hanging off, chattering, cross-talk, pulse breakup, intermittent malfunction, etc.  
-(3) Even under normal conditions, loop detector measurements could be noisy, e.g., due to the confusion of multi-axle trucks.  
-(4) Also, errors can accumulate and propagate.  
+(1) ### Measurement Error 
+ - (a) Loop data are often missing or invalid due to communication error or hardware breakdown.   
+ - (b) Payne et al. (1976) identified various types of detector errors, such as stuck sensors, hanging on or hanging off, chattering, cross-talk, pulse breakup, intermittent malfunction, etc.   
+ - (c) Even under normal conditions, loop detector measurements could be noisy, e.g., due to the confusion of multi-axle trucks.   
+(2) ### Also, errors can accumulate and propagate.   
+(3) ### The variablity or uncertainty of the observed link flows adds to the problem. In general, the measurements represent just a sample of the variable link flows.  
 
 ## Example of a node-based approach
 ![image](https://user-images.githubusercontent.com/88390140/131688472-dd5b92ce-fc45-43ee-9995-13fa6260309e.png)
