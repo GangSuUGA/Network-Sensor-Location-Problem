@@ -25,6 +25,19 @@ Each flow conservation equation is only able to independently determine a single
 The fewer unobserved links involved in the flow conservation equation, the lower chance of accumulating measurement errors and uncertainty. 
 So, the goal becomes to **minimize the largest(*model 1*) or the cumulative number(*model 2*) of unobserved links connected to each non-centroid node**. 
 
+## Model 1: min-max problem
+![image](https://user-images.githubusercontent.com/88390140/131718264-88485507-b24d-45a5-95b8-22eec50dfd84.png)
+Reformulate:
+![image](https://user-images.githubusercontent.com/88390140/131718361-bba33552-47aa-4295-843e-a115be9086fd.png)
 
+ - N: the set of non-centroid nodes  
+ - Ai: the set of new links connected to non-centriod node i 
+ - xa = 1 if link a is selected; 0 otherwise 
+ - Only one new link is selected from each non-centroid node ![image](https://user-images.githubusercontent.com/88390140/131719211-64a8f7ba-7454-4fdd-a639-b78512c9a893.png)
+ - ![image](https://user-images.githubusercontent.com/88390140/131719347-a3420cc4-db07-4d61-afb8-425c5514d512.png) is the number of unobserved links connected to a non-centroid node i 
+
+
+## Model 2: min-sum problem 
+![image](https://user-images.githubusercontent.com/88390140/131718401-7f7faa01-3b69-4470-a224-cd78ad803c2d.png)
 
 
