@@ -10,7 +10,7 @@ In this paper, the author provide a **robust** network sensor location model for
 (3) Even under normal conditions, loop detector measurements could be noisy, e.g., due to the confusion of multi-axle trucks.  
 (4) Also, errors can accumulate and propagate.  
 
-## Example 
+## Example of a node-based approach
 ![image](https://user-images.githubusercontent.com/88390140/131688472-dd5b92ce-fc45-43ee-9995-13fa6260309e.png)
 ![image](https://user-images.githubusercontent.com/88390140/131688506-5317b33f-ab86-4050-9c83-2bd9bb9a9e46.png)
 The flow variance on unobserved link a can be expressed as: 
