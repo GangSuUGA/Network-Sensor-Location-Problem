@@ -42,6 +42,7 @@ Reformulate:
 
 ## Procedure
 (1) Preparing the model input: **the set of new links**, node-link incidence matrix 
+
 (2) Using algorithms (Mixed Integer Programming) to solve models in commercial software packages 
 
 ## Consideration of non-uniform measurement errors
