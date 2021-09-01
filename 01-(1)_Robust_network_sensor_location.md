@@ -18,7 +18,7 @@ To enhance the reliability of link flow inference, it seems necessary to find a 
 
 ## Problem:
 For large-size relistic network, it is difficult to enumerate and evaluate all possible combinations. 
-(we can use evolutionary algorithm to solve the minimized acculated uncertainty problem iteratively or compare the accumulated variance after enumerating all feasible location schemes, but computationally expensive.) 
+(we can use evolutionary algorithm to solve the minimized accumulated uncertainty problem iteratively or compare the accumulated variance after enumerating all feasible location schemes, but computationally expensive.) 
 
 ## Solution:
 Each flow conservation equation is only able to independently determine a single unobserved link flow.
