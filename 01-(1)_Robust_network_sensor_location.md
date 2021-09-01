@@ -30,7 +30,7 @@ So, the goal becomes to **minimize the largest(*model 1*) or the cumulative numb
 Reformulate:
 ![image](https://user-images.githubusercontent.com/88390140/131718361-bba33552-47aa-4295-843e-a115be9086fd.png)
 
-### Notation
+### - Notation
  - N: the set of non-centroid nodes  
  - Ai: the set of new links connected to non-centriod node i 
  - xa = 1 if link a is selected; 0 otherwise 
