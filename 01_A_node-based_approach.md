@@ -51,7 +51,7 @@ The matrix B is not unique, another solution is (36, 47, 57, 69, 79).
 (Integrality of inferred link flows). If vN is integral, vB will be integral as well. 
 (Proof: From the perspective of flow conservation, each input or output components is caculated from adding or substracting.) 
 
-## Problems 
+## Questions/Considerations   
 However, the node-based approach assumed that currently there are no sensors in the road network. In reality, there might often already be sensors present on certain links. Two relevant questions then arise.  
 #### First, given that sensors are already present on the links in the subset R in E, in order to achieve full link observability, which additional subset of links should be equipped with sensors? 
 #### Second, given that sensors are present on the links in the subset R in E, what link flows can be inferred from them? 
