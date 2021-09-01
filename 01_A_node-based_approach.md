@@ -56,4 +56,4 @@ However, the node-based approach assumed that currently there are no sensors in 
 #### First, given that sensors are already present on the links in the subset R in E, in order to achieve full link observability, which additional subset of links should be equipped with sensors? 
 #### Second, given that sensors are present on the links in the subset R in E, what link flows can be inferred from them? 
 
-Castillo et al. (2010) addressed these questions in terms of the path-link incidence matrix. 
+Castillo et al. (2010) addressed these questions in terms of the path-link incidence matrix (a link-based approach). 
