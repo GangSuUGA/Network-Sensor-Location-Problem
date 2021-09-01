@@ -41,8 +41,7 @@ Reformulate:
 ![image](https://user-images.githubusercontent.com/88390140/131718401-7f7faa01-3b69-4470-a224-cd78ad803c2d.png)
 
 ## Procedure
-(1) Preparing the model input: **the set of new links**, node-link incidence matrix 
-
+(1) Preparing the model input: **the set of new links**, node-link incidence matrix  
 (2) Using algorithms (Mixed Integer Programming) to solve models in commercial software packages 
 
 ## Consideration of non-uniform measurement errors
