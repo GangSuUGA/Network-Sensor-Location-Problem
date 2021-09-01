@@ -18,6 +18,8 @@ To enhance the reliability of link flow inference, it seems necessary to find a 
 
 ## Problem:
 For large-size relistic network, it is difficult to enumerate and evaluate all possible combinations. 
+(we can use evolutionary algorithm to solve this problem iteratively or compare the accumulated variance after enumerating all feasible location schemes, but computationally expensive.) 
+
 ## Solution:
 Each flow conservation equation is only able to independently determine a single unobserved link flow.
 The fewer unobserved links involved in the flow conservation equation, the lower chance of accumulating measurement errors and uncertainty. 
