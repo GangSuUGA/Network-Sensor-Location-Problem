@@ -13,7 +13,7 @@ In this paper, the author provide a **robust** network sensor location model for
 #### (3)  The variablity or uncertainty of the observed link flows adds to the problem. In general, the measurements represent just a sample of the variable link flows.  
 
 ## Assmuptions of this paper
-(1) There is no existing sensor. 
+(1) There is no existing sensor.   
 (2) The measurements errors are not yet available (From my perspective, the author might want to assume the error/variance of each detector is same). 
 
 ## Example of a node-based approach
