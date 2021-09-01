@@ -14,14 +14,21 @@ In this paper, the author provide a **robust** network sensor location model for
 
 ## Assmuptions of this paper
 (1) A new network/region, there is no existing sensor.   
-(2) The measurements errors are not yet available (From my perspective, the author might want to assume the error/variance of each detector is same). 
+(2) The measurements errors are not yet available 
+(3) (From my perspective, I guess the author might want to assume the variability or uncertainty of each detector is same in order to make problem more ideal). 
 
 ## Example of a node-based approach
-![image](https://user-images.githubusercontent.com/88390140/131688472-dd5b92ce-fc45-43ee-9995-13fa6260309e.png)
-![image](https://user-images.githubusercontent.com/88390140/131688506-5317b33f-ab86-4050-9c83-2bd9bb9a9e46.png)
+![image](https://user-images.githubusercontent.com/88390140/131739377-83d3519f-8bd6-423a-8f3d-16cd46d52ae8.png)
+![image](https://user-images.githubusercontent.com/88390140/131739311-d5b60dbe-51f2-4f31-98b5-16e81f3d8cb6.png)  
+![image](https://user-images.githubusercontent.com/88390140/131738532-1775df64-31ab-487a-ac18-1a8173bccc59.png)  
+![image](https://user-images.githubusercontent.com/88390140/131738587-54fe9edc-2559-4b18-9ce3-6d6bc5f28d59.png)  
+
 The flow variance on unobserved link a can be expressed as: 
 ![image](https://user-images.githubusercontent.com/88390140/131688630-5bd64c1b-63bd-49e8-8220-bec325ace1aa.png)
 a: unobersed link; b: observed link
+![image](https://user-images.githubusercontent.com/88390140/131739911-33a4d7a4-79e2-4730-8efc-cc26c628b3b9.png)
+, the relationship between the unobserved and observed link flows cannot be expressed generally and explicitly as **x** (a function of the sensor location scheme) can not be written directly to minimize the accumulated variance of inferred link flows propagated from measurement errors.   
+**Instead, this paper proposes an indirect way to resolve this problem.**  
 
 ## Observation: 
 In general, link measurements are inevitably subject to error/inaccuracy. This error/inaccuracy will be **accumulated and propagated** to the relevant **inferred link flows**.
