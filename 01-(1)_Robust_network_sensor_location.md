@@ -65,7 +65,7 @@ Reformulate:
 
 ## Consideration of non-uniform measurement errors
 ![image](https://user-images.githubusercontent.com/88390140/131761358-ae342ead-f3c6-4d79-adcd-e7de9167f4c4.png)     
-This paper also add ![image](https://user-images.githubusercontent.com/88390140/131761639-11c03dfc-eaa7-4186-9373-7da2cac57f46.png)    
+This paper also add ![image](https://user-images.githubusercontent.com/88390140/131761639-11c03dfc-eaa7-4186-9373-7da2cac57f46.png)
 as the minimum and maximum variance among all links respectively. 
 
 ## Extension: uncertainty reduction-oriented redundant sensor location problem 
