@@ -69,5 +69,6 @@ This paper also add the variance bound, ![image](https://user-images.githubuserc
 as the minimum and maximum variance among all links respectively. 
 
 ## Extension: uncertainty reduction-oriented redundant sensor location problem 
+**How many redundant sensors are needed for a certain level of uncertainty reduction?**
 
 
