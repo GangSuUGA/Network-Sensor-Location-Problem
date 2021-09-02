@@ -25,7 +25,7 @@ In this paper, the author provide a **robust** network sensor location model for
 
 The flow variance on unobserved link a can be expressed as: 
 ![image](https://user-images.githubusercontent.com/88390140/131688630-5bd64c1b-63bd-49e8-8220-bec325ace1aa.png)
-a: unobersed link; b: observed link
+(a: unobersed link; b: observed link).
 ![image](https://user-images.githubusercontent.com/88390140/131739911-33a4d7a4-79e2-4730-8efc-cc26c628b3b9.png)
 , the relationship between the unobserved and observed link flows cannot be expressed generally and explicitly as **x** (a function of the sensor location scheme) can not be written directly to minimize the accumulated variance of inferred link flows propagated from measurement errors.   
 **Instead, this paper proposes an indirect way to resolve this problem.**  
