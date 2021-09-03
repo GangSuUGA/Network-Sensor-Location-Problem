@@ -1,7 +1,7 @@
 #### Paper Link:
-#### Ng, Manwo. “Synergistic sensor location for link flow inference without path enumeration: A node-based approach.” Transportation Research Part B-methodological 46 (2012): 781-788. https://www.sciencedirect.com/science/article/pii/S0191261512000161
-#### Xu, Xiangdong et al. “Robust network sensor location for complete link flow observability under uncertainty.” Transportation Research Part B-methodological 88 (2016): 1-20. http://www.math.wm.edu/~rrkinc/hmk_current/NLT/SensorLoc2016.pdf
-#### Castillo, E. et al. “Matrix Tools for General Observability Analysis in Traffic Networks.” IEEE Transactions on Intelligent Transportation Systems 11 (2010): 799-813. https://ieeexplore.ieee.org/document/5482130
+ - Ng, Manwo. “[[**Synergistic sensor location for link flow inference without path enumeration: A node-based approach**](https://www.sciencedirect.com/science/article/pii/S0191261512000161)].” Transportation Research Part B-methodological 46 (2012): 781-788. 
+ -  Xu, Xiangdong et al. “[[**Robust network sensor location for complete link flow observability under uncertainty**](http://www.math.wm.edu/~rrkinc/hmk_current/NLT/SensorLoc2016.pdf)].” Transportation Research Part B-methodological 88 (2016): 1-20. 
+ -  Castillo, E. et al. “[[**Matrix Tools for General Observability Analysis in Traffic Networks**](https://ieeexplore.ieee.org/document/5482130)].” IEEE Transactions on Intelligent Transportation Systems 11 (2010): 799-813. 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
 
