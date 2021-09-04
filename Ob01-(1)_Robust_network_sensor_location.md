@@ -12,7 +12,7 @@ In this paper, the author provide a **robust** network sensor location model for
 #### (2)  Also, errors can accumulate and propagate.   
 #### (3)  The variablity or uncertainty of the observed link flows adds to the problem. In general, the measurements represent just a sample of the variable link flows.  
 
-## Assmuptions of this paper
+## Assumptions of this paper
 (1) A new network/region, there is no existing sensor.   
 (2) The measurements errors are not yet available 
 (3) (From my perspective, I guess the author might want to assume the variability or uncertainty of each detector is same in order to make problem more ideal). 
