@@ -1,3 +1,11 @@
+With the widespread traditional traffic sensors and new emerging traffic sensor technologies, traffic data are exploding, and we have entered the era of big data transportaion. 
+My purpose of starting master degree is to learn the advanced technologies and try to apply them that corresponding to the situation of transportation. 
+
+As COVID, **rethink** 
+
+
+___________________________________________________________________________________________________________________________________________________________________________________
+
 http://www.diva-portal.org/smash/get/diva2:23558/FULLTEXT01.pdf&sa=U&ei=uolnU9-4MYfP8wG83ICICA&ved=0CDEQFjAE&usg=AFQjCNGgV9n0MBGUxQjUaLuuL5dAPNt39Q 
 
 The number of cars increased heavily in the following decades. Traffic&Transporation Engineering becomes more and more important/urgent.
