@@ -4,6 +4,15 @@
  - [**Matlab Code**](https://www.mathworks.com/help/optim/ug/intlinprog.html)
 _______________________________________________________________________
 
+## Mathematical Form:   
+**Objective**:	  Minimize cT x                 
+**Constraints**:	 
+- A x = b (linear constraints)                  
+- l ≤ x ≤ u (bound constraints)                 
+- some or all xj must take integer values (integrality constraints)     
+- some or all xj must take binary values (binary constraints)              
+________________________________________________________________________
+
 To make integer programming possible, several mathematical algorithms are used. 
 If you are interested in the underlying algorithms, I recommend studying the cutting-planes algorithm and the branch-and-bound algorithm 
 [**here**](http://web.mit.edu/15.053/www/AMP-Chapter-09.pdf).     
