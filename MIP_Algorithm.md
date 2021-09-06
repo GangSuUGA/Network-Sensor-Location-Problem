@@ -9,8 +9,9 @@ If you are interested in the underlying algorithms, I recommend studying the cut
 [**here**](http://web.mit.edu/15.053/www/AMP-Chapter-09.pdf).     
 
 Here is an example in tutorial that use **Branch-and-Cut** via PuLP (a popular operations research modeling library for Python). 
-You can find information about it [**here**](https://github.com/coin-or/pulp) 
+You can find information about [**PuLP here**](https://github.com/coin-or/pulp). 
 
+```
 import pulp as pl
 
 # declare some variables
@@ -38,3 +39,5 @@ print("a", pl.value(a))
 print("b", pl.value(b))
 print("c", pl.value(c))
 print("d", pl.value(d))
+```
+
