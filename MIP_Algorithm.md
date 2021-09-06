@@ -8,6 +8,11 @@ To make integer programming possible, several mathematical algorithms are used.
 If you are interested in the underlying algorithms, I recommend studying the cutting-planes algorithm and the branch-and-bound algorithm 
 [**here**](http://web.mit.edu/15.053/www/AMP-Chapter-09.pdf).     
 
+## Cutting-Planes Algorithm: 
+
+## Branch-and-Bound Algorithm: 
+
+## Example:  
 Here is an example in tutorial that use **Branch-and-Cut** via PuLP (a popular operations research modeling library for Python). 
 You can find information about [**PuLP here**](https://github.com/coin-or/pulp). 
 
