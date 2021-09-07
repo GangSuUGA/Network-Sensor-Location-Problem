@@ -9,8 +9,7 @@ _______________________________________________________________________
 **Constraints**:	 
 - A x = b (linear constraints)                  
 - l ≤ x ≤ u (bound constraints)                 
-- some or all xj must take integer values (integrality constraints)     
-- some or all xj must take binary values (binary constraints)              
+- some or all xj must take integer values (integrality constraints)              
 ________________________________________________________________________
 
 To make integer programming possible, several mathematical algorithms are used. 
