@@ -5,6 +5,10 @@
  - https://www.sciencedirect.com/science/article/pii/S0968090X15000777?pes=vor
  - https://www.sciencedirect.com/science/article/pii/S0968090X15003101?pes=vor
  - 
+ - https://www.sciencedirect.com/science/article/pii/S2352146515000800?pes=vor
+ - http://t2r2.star.titech.ac.jp/rrws/file/CTT100742989/ATD100000413/
+ - https://mdpi-res.com/applsci/applsci-11-02306/article_deploy/applsci-11-02306-v2.pdf
+ - 
  - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9213626
 
 ___________________________________________________________________________________________________________________________________________________________________________________
