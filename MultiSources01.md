@@ -13,13 +13,18 @@
  - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9213626
 
 ___________________________________________________________________________________________________________________________________________________________________________________
+## [**Calculus on Computational Graphs: Backpropagation**](http://colah.github.io/posts/2015-08-Backprop/)
 
+![image](https://user-images.githubusercontent.com/88390140/132399277-54e801ab-2fde-42b2-af88-e138a92337c0.png)
+![image](https://user-images.githubusercontent.com/88390140/132399289-9089afe4-357b-46e8-80b2-61620d47c6fb.png)     
+     
+![image](https://user-images.githubusercontent.com/88390140/132399541-d47b3bf3-0ab4-412c-9e4f-ff522a32850e.png)
+![image](https://user-images.githubusercontent.com/88390140/132399561-8e2ab6bd-73dd-4f0c-9ac0-1cd53180a146.png)
 
+Forward-mode differentiation gave us the derivative of our output with respect to a single input, but reverse-mode differentiation gives us all of them.
 
-
-
-
-
+## Benefit:   
+When training neural networks, we think of the cost (a value describing how bad a neural network performs) as a function of the parameters (numbers describing how the network behaves). We want to calculate the derivatives of the cost with respect to all the parameters, for use in gradient descent. Now, there’s often millions, or even tens of millions of parameters in a neural network. So, reverse-mode differentiation, called backpropagation in the context of neural networks, gives us a massive speed up!    
 
 
 
