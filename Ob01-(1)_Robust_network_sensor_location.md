@@ -1,5 +1,6 @@
 #### Paper Link:
  - Xu, Xiangdong et al. “[Robust network sensor location for complete link flow observability under uncertainty](https://www.sciencedirect.com/science/article/pii/S0191261516000436?via%3Dihub).” Transportation Research Part B-methodological 88 (2016): 1-20. 
+ - [**Prerequisite**](https://github.com/GangSuUGA/The-Optimization-of-Sensor-Location/blob/main/Ob01_A_node-based_approach.md)
 ___________________________________________________________________________________________________________________________________________________________________________________
 
 In this paper, the author provide a **robust** network sensor location model for complete link flow inference via a node-based approach while **considering the propagation of measurement errors**. 
