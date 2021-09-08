@@ -13,6 +13,7 @@
  - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9213626
 
 ___________________________________________________________________________________________________________________________________________________________________________________
+# **Now Pytorch have autograd function to solve backpropagation automatically.**
 
 ## [**Background: Backpropagation**](http://colah.github.io/posts/2015-08-Backprop/)
 
