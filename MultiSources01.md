@@ -13,7 +13,7 @@
  - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9213626
 
 ___________________________________________________________________________________________________________________________________________________________________________________
-## [**Calculus on Computational Graphs: Backpropagation**](http://colah.github.io/posts/2015-08-Backprop/)
+## [**Background: Backpropagation**](http://colah.github.io/posts/2015-08-Backprop/)
 
 ![image](https://user-images.githubusercontent.com/88390140/132399277-54e801ab-2fde-42b2-af88-e138a92337c0.png)
 ![image](https://user-images.githubusercontent.com/88390140/132399289-9089afe4-357b-46e8-80b2-61620d47c6fb.png)     
