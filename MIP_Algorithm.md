@@ -1,5 +1,6 @@
 ## References Link: 
  - Tutorial of [**Mixed-integer Programming: A Guide to Computational Decision-making**](https://www.toptal.com/algorithms/mixed-integer-programming) by Shanglun Wang
+ - [**PuLP**](https://coin-or.github.io/pulp/index.html) 
  - [**Applied Mathematical Programming**](http://web.mit.edu/15.053/www/AMP.htm) by Bradley, Hax, and Magnanti (Addison-Wesley, 1977)
  - [**Matlab Code**](https://www.mathworks.com/help/optim/ug/intlinprog.html)
  - Parganiha, Kanishka. “[**LINEAR PROGRAMMING WITH PYTHON AND PULP**](https://iaeme.com/MasterAdmin/Journal_uploads/IJIERD/VOLUME_9_ISSUE_3/IJIERD_09_03_001.pdf).” (2018).
