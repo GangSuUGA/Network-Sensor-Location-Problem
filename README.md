@@ -3,4 +3,4 @@
  - The sensor location **flow-estimation problem** identifies the optimal placement of sensors to **best improve the quality of related estimates** (e.g., OD demands, link/route flows) obtained by the system of linear equations associated with the sensors. 
 
 ![image](https://ars.els-cdn.com/content/image/1-s2.0-S0191261516000436-gr1.jpg)      
-Fig.  Classification of studies on the network sensor location problem (X. Xu et al., 2016).     
+Fig.  Classification of studies on the network sensor location problem ([**X. Xu et al., 2016**](https://www.sciencedirect.com/science/article/pii/S0191261516000436?via%3Dihub)).     
