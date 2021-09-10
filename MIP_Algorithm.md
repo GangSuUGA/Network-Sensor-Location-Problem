@@ -23,7 +23,7 @@ If you are interested in the underlying algorithms, I recommend studying the cut
 ## Branch-and-Bound Algorithm: 
 
 ## Example:  
-Here is an example in tutorial that use **Branch-and-Cut** via PuLP (a popular operations research modeling library for Python). 
+Here is an example in tutorial of PuLP (a popular operations research modeling library for Python). 
 You can find information about [**PuLP here**](https://github.com/coin-or/pulp). 
 
 ```
@@ -56,7 +56,14 @@ print("c", pl.value(c))
 print("d", pl.value(d))
 ```
 
-## Another way to print solution:
-
+## Another example:
+![image](https://user-images.githubusercontent.com/88390140/132880710-849086bf-274c-4057-867f-9ebcc0f77e61.png)     
+![image](https://user-images.githubusercontent.com/88390140/132880764-f1e62441-8db1-4a01-8b19-288f469412da.png)    
+![image](https://user-images.githubusercontent.com/88390140/132880780-3df12d87-b8fe-406d-b464-3a48552d69fd.png)     
+![image](https://user-images.githubusercontent.com/88390140/132880798-fb1c7000-6fa0-4d71-b379-0d635cd6d4f2.png)    
+![image](https://user-images.githubusercontent.com/88390140/132880816-8c7b7571-5d2e-4da3-8e6d-3c47bafb0881.png)     
+![image](https://user-images.githubusercontent.com/88390140/132880844-67e5c154-dd1e-4d6a-a995-b88bb3c606f7.png)   
+![image](https://user-images.githubusercontent.com/88390140/132880910-a6e89716-7de5-44fa-b08c-375f9abf881b.png)
+![image](https://user-images.githubusercontent.com/88390140/132881052-06e126c9-341a-439d-a974-31f490ed0ef4.png)
 ![image](https://user-images.githubusercontent.com/88390140/132577261-ba13c7a3-e395-480b-824c-6bf27820fa6f.png)
 
