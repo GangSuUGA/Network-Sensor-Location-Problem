@@ -2,15 +2,15 @@
  - Wu, Xin et al. “[**Hierarchical travel demand estimation using multiple data sources: A forward and backward propagation algorithmic framework on a layered computational graph**](https://www.sciencedirect.com/science/article/pii/S0968090X18306685#f0015).” Transportation Research Part C-emerging Technologies 96 (2018): 321-346. 
  - [**A short tutorial of deep learning and computational graph frameworks in transportation modeling**](https://www.researchgate.net/publication/325126768)
  - 
- - https://ir.nctu.edu.tw/bitstream/11536/22104/1/000322432200002.pdf
- - https://www.sciencedirect.com/science/article/pii/S0968090X15000777?pes=vor
- - https://www.sciencedirect.com/science/article/pii/S0968090X15003101?pes=vor
+ - Lu, C. et al. “[**Dynamic origin-destination demand flow estimation under congested traffic conditions**](https://ir.nctu.edu.tw/bitstream/11536/22104/1/000322432200002.pdf).” Transportation Research Part C-emerging Technologies 34 (2012): 16-37.
+ - Shi, Q. and M. Abdel-Aty. “[**Big Data applications in real-time traffic operation and safety monitoring and improvement on urban expressways**](https://www.sciencedirect.com/science/article/pii/S0968090X15000777?pes=vor).” Transportation Research Part C-emerging Technologies 58 (2015): 380-394.
+ - Antoniou, C. et al. “[**Towards a generic benchmarking platform for origin–destination flows estimation/updating algorithms: Design, demonstration and validation**](https://www.sciencedirect.com/science/article/pii/S0968090X15003101?pes=vor).” Transportation Research Part C-emerging Technologies 66 (2016): 79-98.
  - 
- - https://www.sciencedirect.com/science/article/pii/S2352146515000800?pes=vor
- - http://t2r2.star.titech.ac.jp/rrws/file/CTT100742989/ATD100000413/
- - https://mdpi-res.com/applsci/applsci-11-02306/article_deploy/applsci-11-02306-v2.pdf
+ - Wu, Cathy et al. “[**Cellpath: Fusion of Cellular and Traffic Sensor Data for Route Flow Estimation via Convex Optimization**](https://www.sciencedirect.com/science/article/pii/S2352146515000800?pes=vor).” Transportation research procedia 7 (2015): 212-232.
+ - Seo, T. et al. “[**Traffic state estimation on highway: A comprehensive survey**](http://t2r2.star.titech.ac.jp/rrws/file/CTT100742989/ATD100000413/).” Annu. Rev. Control. 43 (2017): 128-151.
+ - Cvetek, Dominik et al. “[**A Survey of Methods and Technologies for Congestion Estimation Based on Multisource Data Fusion**](https://mdpi-res.com/applsci/applsci-11-02306/article_deploy/applsci-11-02306-v2.pdf).” Applied Sciences 11 (2021): 2306.
  - 
- - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9213626
+ - Chenyang, Yang et al. “[**A Modified Stochastic User Equilibrium Based Back-Propagation Method of Transportation Network State Estimation**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9213626).” 2020 IEEE International Conference on Advances in Electrical Engineering and Computer Applications( AEECA) (2020): 442-447.
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 # **Now Pytorch/Tensorflow have autograd function to solve backpropagation automatically.**
