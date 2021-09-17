@@ -5,7 +5,7 @@
 
 _____________________________________________
 
-## Two Consider Points: 
+## Motivating Example and Observation: 
  - The flow of an unobserved link cannot be inferred if at least one of the sensors installed on the observed links in that equation breaks down.
  - Considering the failure probability of sensors located on the observed links, we can calculate **the probability of missing/not inferring the link flow of unobserved links**. 
 ![image](https://user-images.githubusercontent.com/88390140/133706814-e95ec274-b9a0-4f12-87cf-1d1c1ad1dbb9.png)
