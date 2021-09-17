@@ -3,8 +3,8 @@
  - [**Prerequisite**](https://github.com/GangSuUGA/The-Optimization-of-Sensor-Location/blob/main/Ob01_A_node-based_approach.md)
 ___________________________________________________________________________________________________________________________________________________________________________________
 **Note:**  
-- **Selecting any single new link just self-assumed the order/sequences of each non-centroid. Actually the order/sequence will influence the results.**        
-- **This method still produce many solutions.**  
+- **There are different ways to construct the set of new links. We could rank the nodes according to their relative importance (e.g., Ivanchev et al., 2016 ), spatial location, or some particular purposes. However, the exact traffic volume is not needed.**        
+- **This method produce many solutions.**  
 
 In this paper, the author provide a **robust** network sensor location model for complete link flow inference via a node-based approach while **considering the propagation of measurement errors**. 
 
