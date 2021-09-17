@@ -15,6 +15,13 @@ _____________________________________________
 
  - According to this column, **the lower the number of appearances of an observed link in different equations** required for the link flow inference of unobserved links, **the lower the expected number of unobserved links for which flow cannot be inferred** due to the failure of the sensor installed on that observed link. 
 
-## New Link Method: 
+## New Link Method (like previous one): 
 Each link assigned to a set of new links related to a non-centroid node should be a link connected to that node and shouldn’t already be assigned to other sets of new links.      
 ![image](https://user-images.githubusercontent.com/88390140/133707671-67ccfe42-0fc0-422c-bbd1-4269d384671d.png)
+
+## Assumption: 
+ - The probability of failure of identical sensors is assumed to be the **same** regardless of their cost and their employed technology. 
+ - This assumption can be beneficial when there are **not enough historical records** about the failure of different type of sensors. 
+ - However, if this information is available, we can develop a more specific model considering **non-identical sensors having different probabilities of failure**.
+ - Note that in both scenarios, we assume that the sensors are **installed independently** and there is **no correlation** between the failure of any pair of sensors.  
+
