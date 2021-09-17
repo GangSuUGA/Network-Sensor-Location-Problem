@@ -54,7 +54,7 @@ The element aj′j′′ means row j′ and column j′′ of the matrix −Tu �
 ![image](https://user-images.githubusercontent.com/88390140/133805769-0adcbd88-ed61-499f-8ee1-6aa0de47303b.png)
 
  - Constraints regarding identical roads:      
-![image](https://user-images.githubusercontent.com/88390140/133805816-5ae170fa-6600-4fe6-985b-e6f65ebb8acc.png)
+![image](https://user-images.githubusercontent.com/88390140/133805816-5ae170fa-6600-4fe6-985b-e6f65ebb8acc.png) hij: New Link Matrix
 ![image](https://user-images.githubusercontent.com/88390140/133805831-caf9b718-8811-4843-b8fd-e939b58d5da1.png)
 
  - Constrains considering major roads:      
