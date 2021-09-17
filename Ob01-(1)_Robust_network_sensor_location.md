@@ -44,8 +44,8 @@ For large-size relistic network, it is difficult to enumerate and evaluate all f
 (we can use evolutionary algorithm to solve the problem iteratively, but computationally expensive.) 
 
 ## Solution:
-Each flow conservation equation is only able to independently determine a single unobserved link flow.
-The fewer unobserved links involved in the flow conservation equation, the lower chance of accumulating measurement errors and uncertainty. 
+ - **New Link Method**: Each flow conservation equation is only able to independently determine a single unobserved link flow.
+ - The fewer unobserved links involved in the flow conservation equation, the lower chance of accumulating measurement errors and uncertainty. 
 So, the goal becomes to **minimize the largest(*model 1*) or the cumulative number(*model 2*) of unobserved links connected to each non-centroid node**. 
 
 ## Model 1: min-max problem
