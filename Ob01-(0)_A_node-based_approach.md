@@ -2,10 +2,14 @@
  - Ng, Manwo. “[**Synergistic sensor location for link flow inference without path enumeration: A node-based approach**](https://www.sciencedirect.com/science/article/pii/S0191261512000161).” Transportation Research Part B-methodological 46 (2012): 781-788. 
  -  Xu, Xiangdong et al. “[**Robust network sensor location for complete link flow observability under uncertainty**](http://www.math.wm.edu/~rrkinc/hmk_current/NLT/SensorLoc2016.pdf).” Transportation Research Part B-methodological 88 (2016): 1-20. 
  -  Castillo, E. et al. “[**Matrix Tools for General Observability Analysis in Traffic Networks**](https://ieeexplore.ieee.org/document/5482130).” IEEE Transactions on Intelligent Transportation Systems 11 (2010): 799-813. 
-___________________________________________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________
+
 **Note:** 
- - **In the node-based approach, the number of sensor is fixed after the number of noncentorid is given.**   
- - **Node-based approach will produce lots of solutions which meet the requirement of finding invertible matrix.** 
+ - **In the node-based approach, the number of installed sensor is fixed after the numbers of noncentorids and links are given.**   
+ - **Vanilla node-based approach usually produce many alternative solutions which meet the requirement of finding invertible matrix.** 
+
+![image](https://user-images.githubusercontent.com/88390140/133832144-76eade33-c13b-420d-9b17-943956254d4b.png)
+
 
 Link flow inference is to infer the unobserved link flows based on the observed link flows. 
 There are two main approaches to inferring link flows: node-based approach and link-based approach. 
