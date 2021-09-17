@@ -50,7 +50,15 @@ The element aj′j′′ means row j′ and column j′′ of the matrix −Tu �
 ![image](https://user-images.githubusercontent.com/88390140/133802214-9e97b4fa-ffa6-47c7-a836-f307f4db731f.png)
 
 ## Mathematical Formulation: 
- - Regarding identical roads: 
-![image](https://user-images.githubusercontent.com/88390140/133802498-9dd9efa2-3517-44a4-ad64-474537912dd5.png)
+ - Objective functions: 
+![image](https://user-images.githubusercontent.com/88390140/133805769-0adcbd88-ed61-499f-8ee1-6aa0de47303b.png)
+
+ - Constraints regarding identical roads:      
+![image](https://user-images.githubusercontent.com/88390140/133805816-5ae170fa-6600-4fe6-985b-e6f65ebb8acc.png)
+![image](https://user-images.githubusercontent.com/88390140/133805831-caf9b718-8811-4843-b8fd-e939b58d5da1.png)
+
+ - Constrains considering major roads:      
+![image](https://user-images.githubusercontent.com/88390140/133806020-abf3b10e-ac97-46c4-8956-a748f0623849.png)
+
 
 
