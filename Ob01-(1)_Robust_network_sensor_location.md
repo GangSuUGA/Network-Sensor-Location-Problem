@@ -13,12 +13,12 @@ In this paper, the author provide a **robust** network sensor location model for
  - (a) Loop data are often missing or invalid due to communication error or hardware breakdown.   
  - (b) Payne et al. (1976) identified various types of detector errors, such as stuck sensors, hanging on or hanging off, chattering, cross-talk, pulse breakup, intermittent malfunction, etc.   
  - (c) Even under normal conditions, loop detector measurements could be noisy, e.g., due to the confusion of multi-axle trucks.   
-#### (2)  Also, errors can accumulate and propagate.   
+#### (2)  Also, errors can accumulate and propagate.      
 #### (3)  The variablity or uncertainty of the observed link flows adds to the problem. In general, the measurements represent just a sample of the variable link flows.  
 
 ## Assumptions of this paper
 (1) A new network/region, there is no existing sensor.   
-(2) The measurements errors are not yet available 
+(2) The measurements errors are not yet available.     
 (3) (From my perspective, I guess the author might want to assume the variability or uncertainty of each detector is same in order to make problem more ideal). 
 
 ## Example of a node-based approach
@@ -55,7 +55,8 @@ Reformulate:
 
 ###  Notation
  - N: the set of non-centroid nodes  
- - Ai: the set of new links connected to non-centriod node i 
+ - Ai: the set of links connected to non-centriod node i
+ - ri: the new set of links connected to non-centriod node i (New Link Method)      
  - xa = 1 if link a is selected; 0 otherwise 
  - Only one new link is selected from each non-centroid node ![image](https://user-images.githubusercontent.com/88390140/131719211-64a8f7ba-7454-4fdd-a639-b78512c9a893.png)
  - ![image](https://user-images.githubusercontent.com/88390140/131719347-a3420cc4-db07-4d61-afb8-425c5514d512.png) is the number of unobserved links connected to a non-centroid node i 
