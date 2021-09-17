@@ -25,3 +25,18 @@ Each link assigned to a set of new links related to a non-centroid node should b
  - However, if this information is available, we can develop a more specific model considering **non-identical sensors having different probabilities of failure**.
  - Note that in both scenarios, we assume that the sensors are **installed independently** and there is **no correlation** between the failure of any pair of sensors.  
 
+## Probability of missing the link flow inference of unobserved links:  
+![image](https://user-images.githubusercontent.com/88390140/133790018-ff22f22d-3abe-4607-8928-24a3a3875bdd.png)
+![image](https://user-images.githubusercontent.com/88390140/133789955-06b061bb-9be1-4ab5-9501-ee540967de47.png)
+
+**The elements of the matrix −Tu −1 To can help us to identify the observed links that should be used for inferring the flow of an unobserved link.**
+
+The maximum probability of missing the link flow inference of an unobserved link:     
+![image](https://user-images.githubusercontent.com/88390140/133790453-8abfb41d-ad02-44cb-9be1-e4f1f3b7d428.png)       
+The element aj′j′′ means row j′ and column j′′ of the matrix −Tu −1 To. 
+
+## Recap: 
+![image](https://user-images.githubusercontent.com/88390140/133792293-77a14cb2-2eb2-44ef-8df4-1ed953805f52.png)
+
+
+
