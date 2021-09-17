@@ -32,11 +32,18 @@ Each link assigned to a set of new links related to a non-centroid node should b
 **The elements of the matrix −Tu −1 To can help us to identify the observed links that should be used for inferring the flow of an unobserved link.**
 
 The maximum probability of missing the link flow inference of an unobserved link:     
-![image](https://user-images.githubusercontent.com/88390140/133790453-8abfb41d-ad02-44cb-9be1-e4f1f3b7d428.png)       
+![image](https://user-images.githubusercontent.com/88390140/133790453-8abfb41d-ad02-44cb-9be1-e4f1f3b7d428.png)![image](https://user-images.githubusercontent.com/88390140/133795060-941f58d4-64fe-489a-ae00-f5be5e917f80.png)
+  
 The element aj′j′′ means row j′ and column j′′ of the matrix −Tu −1 To. 
+
+**Why square the element?** 
+ - Cancel the effect of negative signs
+ - Helpful in identifying higher chance of missing link flow inference.     
 
 ## Recap: 
 ![image](https://user-images.githubusercontent.com/88390140/133792293-77a14cb2-2eb2-44ef-8df4-1ed953805f52.png)
+
+## Effect of a sensor failure on the link flow inference of unobserved links: 
 
 
 
