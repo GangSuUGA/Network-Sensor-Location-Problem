@@ -31,19 +31,26 @@ Each link assigned to a set of new links related to a non-centroid node should b
 
 **The elements of the matrix −Tu −1 To can help us to identify the observed links that should be used for inferring the flow of an unobserved link.**
 
-The maximum probability of missing the link flow inference of an unobserved link:     
+ - **Y1**: Minimize **the maximum probability** of missing the link flow inference of an unobserved link. 
+ - **Y2**: Minimize **the expected number** of missing the link flow inference of an unobserved link. 
+ 
 ![image](https://user-images.githubusercontent.com/88390140/133790453-8abfb41d-ad02-44cb-9be1-e4f1f3b7d428.png)![image](https://user-images.githubusercontent.com/88390140/133795060-941f58d4-64fe-489a-ae00-f5be5e917f80.png)
   
 The element aj′j′′ means row j′ and column j′′ of the matrix −Tu −1 To. 
 
 **Why square the element?** 
- - Cancel the effect of negative signs
+ - Cancel the effect of negative signs. 
  - Helpful in identifying higher chance of missing link flow inference.     
 
 ## Recap: 
 ![image](https://user-images.githubusercontent.com/88390140/133792293-77a14cb2-2eb2-44ef-8df4-1ed953805f52.png)
 
 ## Effect of a sensor failure on the link flow inference of unobserved links: 
+ - Minimize **the maximum expected number of unobserved links** for which their flow will be missed due to the failure of a sensor installed on an observed link.      
+![image](https://user-images.githubusercontent.com/88390140/133802214-9e97b4fa-ffa6-47c7-a836-f307f4db731f.png)
 
+## Mathematical Formulation: 
+ - Regarding identical roads: 
+![image](https://user-images.githubusercontent.com/88390140/133802498-9dd9efa2-3517-44a4-ad64-474537912dd5.png)
 
 
