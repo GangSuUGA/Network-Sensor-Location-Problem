@@ -1,5 +1,5 @@
 ## Resources Link:
- - 
+ - https://www.youtube.com/watch?v=y3T_DaDA3_c&list=PLLGIZCXnKbU6-9vy_rKZ6gW7E_ra42hfX 
 
 _______________________________________________
 
@@ -10,10 +10,14 @@ _______________________________________________
  - **Measure**: What get mearsures what get done. 
 ![image](https://user-images.githubusercontent.com/88390140/134061529-c93dfd86-96f2-4461-b1fb-79a65f2ad282.png)
 
-![image](https://user-images.githubusercontent.com/88390140/134062075-93b137d2-3af3-4024-b54e-0c2be4ce337d.png)   
+![image](https://user-images.githubusercontent.com/88390140/134062075-93b137d2-3af3-4024-b54e-0c2be4ce337d.png) 
+![image](https://user-images.githubusercontent.com/88390140/134062290-4b36e894-ca84-4f96-a39a-6c2258cfa0d1.png)
 
-A major distinction between the different types of traffic models is drawn with respect to their level of detail. A macroscopic model uses fluid variables, such as flow and density, and does not model individual vehicles — these are aggregated into continuous variables. A microscopic model describes vehicles (and often even drivers) individually. 
-A mesoscopic model is in between and combines the ideas from macroscopic and microscopic models. Typically it uses macroscopic speed–flow relations to depict the motions of individual vehicles.
+
+## Distinction between the different types of traffic models:
+- A macroscopic model uses fluid variables, such as flow and density, and does not model individual vehicles — these are aggregated into continuous variables. 
+- A microscopic model describes vehicles (and often even drivers) individually. 
+- A mesoscopic model is in between and combines the ideas from macroscopic and microscopic models. Typically it uses macroscopic speed–flow relations to depict the motions of individual vehicles.
 
 ## Four-Step Travel Demand Model
 
@@ -32,3 +36,4 @@ Mode Choice predicts the choices that individuals or groups make in selecting th
 
  - **Step 4: Traffic Assignment – What is the route of each trip?**
  In the traffic assignment the OD-matrix for each mode is assigned onto the traffic network according to "User Equilibrium" (opposed to System Equilibrium), since each user chooses the route self-interest.  
+
