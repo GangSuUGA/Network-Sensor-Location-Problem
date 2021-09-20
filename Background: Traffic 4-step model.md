@@ -10,7 +10,7 @@ _______________________________________________
  - **Measure**: What get mearsures what get done. 
 ![image](https://user-images.githubusercontent.com/88390140/134061529-c93dfd86-96f2-4461-b1fb-79a65f2ad282.png)
 
-![image](https://user-images.githubusercontent.com/88390140/132099098-1e32bce4-c0b3-4763-9b7a-7610f5f21f51.png)     
+![image](https://user-images.githubusercontent.com/88390140/134062075-93b137d2-3af3-4024-b54e-0c2be4ce337d.png)   
 
 A major distinction between the different types of traffic models is drawn with respect to their level of detail. A macroscopic model uses fluid variables, such as flow and density, and does not model individual vehicles — these are aggregated into continuous variables. A microscopic model describes vehicles (and often even drivers) individually. 
 A mesoscopic model is in between and combines the ideas from macroscopic and microscopic models. Typically it uses macroscopic speed–flow relations to depict the motions of individual vehicles.
