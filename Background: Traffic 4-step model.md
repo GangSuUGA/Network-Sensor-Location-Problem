@@ -35,6 +35,6 @@ Commonly a TAZ interaction model estimates movements (flows) between origins and
  - **Step 3: Mode Choice. - What travel mode is used for each trip?**     
 Mode Choice predicts the choices that individuals or groups make in selecting their transportation modes, which depends on the travel time/cost, accessibility to the public transit options and also social preferences.   
 
- - **Step 4: Traffic Assignment. – What is the route of each trip?**
- In the traffic assignment the OD-matrix for each mode is assigned onto the traffic network according to "User Equilibrium" (opposed to System Equilibrium), since each user chooses the route self-interest.  
+ - **Step 4: Traffic Assignment. – What is the route/link of each trip?**     
+In the traffic assignment the OD-matrix for each mode is assigned onto the traffic network according to "User Equilibrium" (opposed to System Equilibrium), since each user chooses the route self-interest.  
 
