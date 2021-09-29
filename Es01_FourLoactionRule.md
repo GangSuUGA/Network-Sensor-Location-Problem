@@ -4,6 +4,14 @@
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
+## OD Matrix & Path Route & Link Flow 
+
+ long term planning planning                    short term traffic control and management
+
+
+
+
+
 ## Example      
 ![image](https://ars.els-cdn.com/content/image/1-s2.0-S0191261597000167-gr1.gif)
 ![image](https://user-images.githubusercontent.com/88390140/132033524-f317b2a2-2308-4477-b5a6-8a9f0d4fc25d.png)
