@@ -1,4 +1,6 @@
 # The-Optimization-of-Sensor-Location
+
+## MOTIVATION 
 There are is a growing appreciation of the importance in developed societies of networks (or lifelines) of various kinds, such as water supply, energy supply, sewage disposal, communication and of course transportation. Monitoring and analyzing those big lifelines data become vital for the planning and management in smart city. In this project, we focused on the first one, especially traffic counting sensor location problem. 
 ____________________________________
 
