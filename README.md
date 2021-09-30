@@ -1,5 +1,5 @@
 # The-Optimization-of-Sensor-Location
-There are is a growing appreciation of the importance in developed societies of networks (or lifelines) of various kinds, such as water supply, energy supply, sewage disposal, communication and of course transportation. Effective monitoring and analyzing those big lifelines data become vital for the planning and management in smart city. In this project, we focused on the first one, especially traffic counting sensor location problem. 
+There are is a growing appreciation of the importance in developed societies of networks (or lifelines) of various kinds, such as water supply, energy supply, sewage disposal, communication and of course transportation. Monitoring and analyzing those big lifelines data become vital for the planning and management in smart city. In this project, we focused on the first one, especially traffic counting sensor location problem. 
 ____________________________________
 
  - The sensor location **flow-observability problem**:      
