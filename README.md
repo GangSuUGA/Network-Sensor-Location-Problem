@@ -6,9 +6,9 @@ ____________________________________
 
 ## Literature Review: 
  - The sensor location **Flow-Observability Problem**:      
-      What is the minimum number of sensors and where to locate them in order to obtain the certain coverage level?              
+      What is the minimum number of sensors and where to locate them in order to obtain the certain levelof links coverage?              
  - The sensor location **Flow-Estimation Problem**:      
-      How to choose sensor locations to improve the quality of flows estimates (e.g., OD demands, link/route flows)?    
+      How to choose sensor locations to improve the quality of flows estimates (e.g., OD demands, link/route flows, travel time)?    
  - The sensor location **Flow-Prediction Problem**:
 
 
