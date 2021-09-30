@@ -4,10 +4,6 @@
 
 __________________________________________________
 
-## OD Matrix & Path Route & Link Flow 
-
- long term planning           &         short term traffic control and management
-
 ## Maximum Possible Relative Error (MPRE) 
 - The **Entropy Maximizing, Information Minimizing, and Least Squares Estimators** have been proposed and applied in the models for  
 
