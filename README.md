@@ -2,6 +2,7 @@
 There are is a growing appreciation of the importance in developed societies of networks (or lifelines) of various kinds, such as water supply, energy supply, sewage disposal, communication and of course transportation. Monitoring and analyzing those big lifelines data become vital for the planning and management in smart city. In this project, we focused on the first one, especially traffic counting sensor location problem. 
 ____________________________________
 
+## Literature Review: 
  - The sensor location **Flow-Observability Problem**:      
       What is the minimum number of sensors and where to locate them in order to obtain the certain coverage level?              
  - The sensor location **Flow-Estimation Problem**:      
