@@ -16,6 +16,22 @@ __________________________________________________
 - **Method**: Calculating an upper bound or maximum possible relative error. 
 ![image](https://user-images.githubusercontent.com/88390140/135565833-6d4ee76d-ad0e-4001-b57c-199f28cdd59a.png)
 
+- **Theoretical Formulation**:         
+![image](https://user-images.githubusercontent.com/88390140/135566497-158ac894-3e45-4069-b39d-b4d92fc8555e.png)
+![image](https://user-images.githubusercontent.com/88390140/135566539-96143314-cdd7-4e6f-85d0-465eb44b12c8.png)
+![image](https://user-images.githubusercontent.com/88390140/135566569-c4b638ae-783e-40f6-b433-c885fff25593.png)
+![image](https://user-images.githubusercontent.com/88390140/135566577-323b0e99-3477-4e4f-bb09-2f409272261c.png)
+![image](https://user-images.githubusercontent.com/88390140/135566598-585203fa-ec01-4cfd-a089-b9d12cc30416.png)
+![image](https://user-images.githubusercontent.com/88390140/135566826-093b076a-a4b0-4af8-9f35-5e5c6f73682c.png)
+
+## Reform: 
+![image](https://user-images.githubusercontent.com/88390140/135566907-f967754a-4f72-48ba-8ab1-ce1af56f7a82.png)
+![image](https://user-images.githubusercontent.com/88390140/135566940-3c3bfb2e-e5fe-4c85-a95b-4c673182a083.png)
+![image](https://user-images.githubusercontent.com/88390140/135566968-b8ee5bb1-4286-40ca-a4bd-2f04d6a06cd2.png)           
+Based on the same idea, the Maximum Possible Average Relative Error Av(~) can be extended to incorporate the prior information into Av(~) by **considering the relative magnitudes of OD volumes**.        
+![image](https://user-images.githubusercontent.com/88390140/135566997-dfa52284-9df7-4a7c-8815-c671e2b37b48.png)
+
+
 
 
 ## Example      
