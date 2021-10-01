@@ -9,6 +9,7 @@ __________________________________________________
 - Typically, the **Entropy Maximizing, Information Minimizing, and Least Squares Estimators** have been proposed and applied. 
 - **Problem**: Since the **"true" OD trip matrix** is unknown, it is impossible to evaluate exactly the estimation accuracy. 
 - Yang, Hai et al. (1991) proposed "Maximum Possible Relative Error (MPRE)" to investigate the reliability of an estimated OD trip matrix. 
+- Generally, the quality of an estimated OD matrix depends much on the reliability of the input data, and **the number and locations of traffic counting points in the road network** (Yang and Zhou, 1998). 
 
 ## Maximum Possible Relative Error (MPRE) 
 - **Method**: Calculating an upper bound or maximum possible relative error. 
