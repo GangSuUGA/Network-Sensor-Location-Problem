@@ -29,7 +29,7 @@ __________________________________________________
 ![image](https://user-images.githubusercontent.com/88390140/135566907-f967754a-4f72-48ba-8ab1-ce1af56f7a82.png)
 ![image](https://user-images.githubusercontent.com/88390140/135566940-3c3bfb2e-e5fe-4c85-a95b-4c673182a083.png)
 ![image](https://user-images.githubusercontent.com/88390140/135566968-b8ee5bb1-4286-40ca-a4bd-2f04d6a06cd2.png)           
-Based on the same idea, the Maximum Possible Average Relative Error Av(~) can be extended to incorporate the prior information into Av(~) by **considering the relative magnitudes of OD volumes**.        
+Based on the same idea, the Maximum Possible Average Relative Error Av() can be extended to incorporate the prior information into Av() by **considering the relative magnitudes of OD volumes**.        
 ![image](https://user-images.githubusercontent.com/88390140/135566997-dfa52284-9df7-4a7c-8815-c671e2b37b48.png)
 
 
