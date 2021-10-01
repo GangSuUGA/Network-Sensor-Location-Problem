@@ -1,18 +1,16 @@
 #### Paper Link:
  - Yang, Hai et al. “[**An analysis of the reliability of an origin-destination trip matrix estimated from traffic counts**](https://www.sciencedirect.com/science/article/pii/019126159190028H?pes=vor).” Transportation Research Part B-methodological 25 (1991): 351-363.       
  - Yang, Hai and J. Zhou. “[**Optimal traffic counting locations for origin–destination matrix estimation**](https://www.sciencedirect.com/science/article/pii/S0191261597000167?via%3Dihub).” Transportation Research Part B-methodological 32 (1998): 109-126.
- - [**Background: Trip Table Estimation**](https://github.com/GangSuUGA/The-Optimization-of-Sensor-Location/blob/main/Background02:%20Trip%20Table%20Estimation.md) 
+ - [**Background: OD Trip Table Estimation**](https://github.com/GangSuUGA/The-Optimization-of-Sensor-Location/blob/main/Background02:%20Trip%20Table%20Estimation.md) 
 __________________________________________________
 
 ## Motivation 
-- The estimation of OD trip matrices aims at choosing a matrix with a high degree of accuracy or reliability among many possible ones satisfying the traffic count constraints. 
+- - **Definition of OD Estimation**: The estimation of OD trip matrices aims at choosing a matrix with a high degree of accuracy or reliability among many possible ones satisfying the traffic count constraints. 
 - Typically, the **Entropy Maximizing, Information Minimizing, and Least Squares Estimators** have been proposed and applied. 
 - **Problem**: Since the **"true" OD trip matrix** is unknown, it is impossible to evaluate exactly the estimation accuracy. 
 - Yang, Hai et al. (1991) proposed "Maximum Possible Relative Error (MPRE)" to investigate the reliability of an estimated OD trip matrix. 
 
 ## Maximum Possible Relative Error (MPRE) 
-- **Definition**: 
-
 - **Method**: Calculating an upper bound or maximum possible relative error. 
 ![image](https://user-images.githubusercontent.com/88390140/135565833-6d4ee76d-ad0e-4001-b57c-199f28cdd59a.png)
 
