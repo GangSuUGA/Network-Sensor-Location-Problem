@@ -48,13 +48,12 @@ For a particular O-D pair, the traffic counting points on a road network should 
 ## Example      
 ![image](https://ars.els-cdn.com/content/image/1-s2.0-S0191261597000167-gr1.gif)
 ![image](https://user-images.githubusercontent.com/88390140/132033524-f317b2a2-2308-4477-b5a6-8a9f0d4fc25d.png)
-![image](https://user-images.githubusercontent.com/88390140/132033555-42116553-1dfe-4ded-b68f-40485c0ee3de.png)
-
-       
-     
 
 ## Rule 3 (maximal flow-intercepting rule):      
-under a certain number of links to be observed, the chosen links should **intercept as many flows as possible**.    
+under a certain number of links to be observed, the chosen links should **intercept as many flows as possible**.  
+
+![image](https://user-images.githubusercontent.com/88390140/132033555-42116553-1dfe-4ded-b68f-40485c0ee3de.png)
+  
 
 ## Rule 4 (link independence rule):     
 the traffic counting points should be located on the network so that **the resultant traffic counts on all chosen links are not linearly dependent**. 
