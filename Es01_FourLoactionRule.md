@@ -55,5 +55,5 @@ Under a certain number of links to be observed, the chosen links should **interc
 ## Observation: 
 Because the flow conservation equation (like Va + Vb = Vc + Vd), links a, b, c and d should not be chosen simultaneously. In this situation, ![image](https://user-images.githubusercontent.com/88390140/135645677-9fef6a54-ab37-45df-80b0-417ebdf84b45.png) will become linearly dependent.     
       
-## Rule 4 (link independence rule, like new link method):      
+## Rule 4 (link independence rule, kind of like new link method):      
 The traffic counting points should be located on the network so that **the resultant traffic counts on all chosen links are not linearly dependent**. 
