@@ -4,8 +4,6 @@
  - [**Background: Trip Table Estimation**](https://github.com/GangSuUGA/The-Optimization-of-Sensor-Location/blob/main/Background02:%20Trip%20Table%20Estimation.md) 
 __________________________________________________
 
-![image](https://user-images.githubusercontent.com/88390140/135628433-f4bab932-56bf-4577-bfd5-cbad3bba9b1f.png)
-
 ## Motivation 
 - The previous OD trip matrix estmator, like using **Entropy Maximizing, Information Minimizing, and Least Squares Estimators**, usually requires the proir information, like link choice proportions. 
 - Since the "true" OD trip matrix is unknown, it is impossible to evaluate exactly the estimation accuracy. 
