@@ -31,19 +31,27 @@ __________________________________________________
 The Maximum Possible Average Relative Error can be extended to incorporate other prior information by **considering the relative magnitudes of OD volumes**.        
 ![image](https://user-images.githubusercontent.com/88390140/135566997-dfa52284-9df7-4a7c-8815-c671e2b37b48.png)
 
+## Observation: 
+![image](https://user-images.githubusercontent.com/88390140/135631940-b6507272-f01a-4b2b-a605-85181581a582.png)       
+In this situation, ![image](https://user-images.githubusercontent.com/88390140/135632115-24ef37d0-fa62-4978-af04-9752db8af352.png) is unbounded, which also means the trips between the jth OD pair do not pass over any of the observed links. In other words, if there are no traffic counters to observe this OD pair, the corresponding ![image](https://user-images.githubusercontent.com/88390140/135632115-24ef37d0-fa62-4978-af04-9752db8af352.png) will become infinite.         
+On the contray, ![image](https://user-images.githubusercontent.com/88390140/135632597-5044669f-072f-4ece-b5bd-d7ab60406d55.png)      
+In other words, if there is at least one traffic counter to observe this OD pair, the corresponding ![image](https://user-images.githubusercontent.com/88390140/135632115-24ef37d0-fa62-4978-af04-9752db8af352.png) will become infinite.
 
+## Rule 1 (O-D covering rule):     
+The traffic counting points on a road network should be located so that **a certain portion of trips between any O-D pair will be observed**.       
 
+![image](https://user-images.githubusercontent.com/88390140/135634859-955d4cff-698c-4af0-b0da-24d522e34133.png)
+
+## Rule 2 (maximal flow fraction rule):     
+For a particular O-D pair, the traffic counting points on a road network should be located at the links so that **the flow fraction between this O-D pair out of flows on these links is as large as possible**. 
 
 ## Example      
 ![image](https://ars.els-cdn.com/content/image/1-s2.0-S0191261597000167-gr1.gif)
 ![image](https://user-images.githubusercontent.com/88390140/132033524-f317b2a2-2308-4477-b5a6-8a9f0d4fc25d.png)
 ![image](https://user-images.githubusercontent.com/88390140/132033555-42116553-1dfe-4ded-b68f-40485c0ee3de.png)
 
-## Rule 1 (O-D covering rule):     
-the traffic counting points on a road network should be located so that **a certain portion of trips between any O-D pair will be observed**.       
-
-## Rule 2 (maximal flow fraction rule):     
-for a particular O-D pair, the traffic counting points on a road network should be located at the links so that **the flow fraction between this O-D pair out of flows on these links is as large as possible**.      
+       
+     
 
 ## Rule 3 (maximal flow-intercepting rule):      
 under a certain number of links to be observed, the chosen links should **intercept as many flows as possible**.    
