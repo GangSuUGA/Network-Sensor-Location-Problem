@@ -60,4 +60,6 @@ The traffic counting points should be located on the network so that **the resul
 
 ## Model: 
 ![image](https://user-images.githubusercontent.com/88390140/135661559-ad919678-af20-4ef0-8bc3-978aa847c026.png)
+## TCL-P2: 
+![image](https://user-images.githubusercontent.com/88390140/135667386-e1ab2915-0fad-45be-a0a5-d2d78488c15a.png)
 
