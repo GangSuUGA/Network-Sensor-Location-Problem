@@ -5,7 +5,9 @@
 __________________________________________________
 
 ## Maximum Possible Relative Error (MPRE) 
-- The **Entropy Maximizing, Information Minimizing, and Least Squares Estimators** have been proposed and applied in the models for  
+- The previous OD trip matrix estmator, like using **Entropy Maximizing, Information Minimizing, and Least Squares Estimators**, usually requires the proir information, like link choice proportions. 
+- Since the "true" OD trip matrix is unknown, it is impossible to evaluate exactly the estimation accuracy. 
+- 
 
 
 
