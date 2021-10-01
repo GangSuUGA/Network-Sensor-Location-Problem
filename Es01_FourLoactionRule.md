@@ -5,12 +5,13 @@
 __________________________________________________
 
 ## Motivation 
-- The previous OD trip matrix estmator, like using **Entropy Maximizing, Information Minimizing, and Least Squares Estimators**, usually requires the proir information, like link choice proportions. 
-- Since the "true" OD trip matrix is unknown, it is impossible to evaluate exactly the estimation accuracy. 
+- The estimation of OD trip matrices aims at choosing a matrix with a high degree of accuracy or reliability among many possible ones satisfying the traffic count constraints. 
+- Typically, the **Entropy Maximizing, Information Minimizing, and Least Squares Estimators** have been proposed and applied. 
+- **Problem**: Since the **"true" OD trip matrix** is unknown, it is impossible to evaluate exactly the estimation accuracy. 
 - Yang, Hai et al. (1991) proposed "Maximum Possible Relative Error (MPRE)" to investigate the reliability of an estimated OD trip matrix. 
 
 ## Maximum Possible Relative Error (MPRE) 
-- **Definition**: The estimation of OD trip matrices aims at choosing a matrix with a high degree of accuracy or reliability among many possible ones satisfying the traffic count constraints. 
+- **Definition**: 
 
 - **Method**: Calculating an upper bound or maximum possible relative error. 
 ![image](https://user-images.githubusercontent.com/88390140/135565833-6d4ee76d-ad0e-4001-b57c-199f28cdd59a.png)
