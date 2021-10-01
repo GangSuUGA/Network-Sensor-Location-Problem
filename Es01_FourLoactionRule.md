@@ -5,7 +5,7 @@
 __________________________________________________
 
 ## Motivation 
-- - **Definition of OD Estimation**: The estimation of OD trip matrices aims at choosing a matrix with a high degree of accuracy or reliability among many possible ones satisfying the traffic count constraints. 
+- **Definition of OD Estimation**: The estimation of OD trip matrices aims at choosing a matrix with a high degree of accuracy or reliability among many possible ones satisfying the traffic count constraints. 
 - Typically, the **Entropy Maximizing, Information Minimizing, and Least Squares Estimators** have been proposed and applied. 
 - **Problem**: Since the **"true" OD trip matrix** is unknown, it is impossible to evaluate exactly the estimation accuracy. 
 - Yang, Hai et al. (1991) proposed "Maximum Possible Relative Error (MPRE)" to investigate the reliability of an estimated OD trip matrix. 
