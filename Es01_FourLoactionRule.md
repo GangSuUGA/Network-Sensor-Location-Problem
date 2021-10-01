@@ -53,7 +53,7 @@ For example, the set of (d;e) is less desirable than (a;b) and (c;d), because th
 ## Rule 3 (maximal flow-intercepting rule):      
 Under a certain number of links to be observed, the chosen links should **intercept as many flows as possible**.  
 
-![image](https://user-images.githubusercontent.com/88390140/132033555-42116553-1dfe-4ded-b68f-40485c0ee3de.png)
+![image](https://user-images.githubusercontent.com/88390140/135644613-5be1512a-6bb7-4b82-b8de-d1e1c00364f5.png)
   
 
 ## Rule 4 (link independence rule):     
