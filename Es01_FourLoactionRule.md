@@ -46,8 +46,9 @@ The traffic counting points on a road network should be located so that **a cert
 For a particular O-D pair, the traffic counting points on a road network should be located at the links so that **the flow fraction between this O-D pair out of flows on these links is as large as possible**. 
 
 ## Example      
-![image](https://ars.els-cdn.com/content/image/1-s2.0-S0191261597000167-gr1.gif)
-![image](https://user-images.githubusercontent.com/88390140/132033524-f317b2a2-2308-4477-b5a6-8a9f0d4fc25d.png)
+![image](https://ars.els-cdn.com/content/image/1-s2.0-S0191261597000167-gr1.gif)        
+For example, the set of (d;e) is less desirable than (a;b) and (c;d), because the latter can intercept all flows through the network.      
+![image](https://user-images.githubusercontent.com/88390140/135644290-26b1f134-f2bb-433b-8a0b-716224ed4a60.png)   
 
 ## Rule 3 (maximal flow-intercepting rule):      
 Under a certain number of links to be observed, the chosen links should **intercept as many flows as possible**.  
