@@ -3,7 +3,8 @@
  - Yang, Hai and J. Zhou. “[**Optimal traffic counting locations for origin–destination matrix estimation**](https://www.sciencedirect.com/science/article/pii/S0191261597000167?via%3Dihub).” Transportation Research Part B-methodological 32 (1998): 109-126.
  - [**Background: Trip Table Estimation**](https://github.com/GangSuUGA/The-Optimization-of-Sensor-Location/blob/main/Background02:%20Trip%20Table%20Estimation.md) 
 __________________________________________________
-![image](https://user-images.githubusercontent.com/88390140/135564930-3de29d1c-2846-4d9b-8a80-d526203f08ce.png)
+
+![image](https://user-images.githubusercontent.com/88390140/135567375-4e1ee8d3-8c65-43c3-8fa9-684fe1729509.png)
 
 ## Motivation 
 - The previous OD trip matrix estmator, like using **Entropy Maximizing, Information Minimizing, and Least Squares Estimators**, usually requires the proir information, like link choice proportions. 
