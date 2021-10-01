@@ -50,7 +50,7 @@ For a particular O-D pair, the traffic counting points on a road network should 
 ![image](https://user-images.githubusercontent.com/88390140/132033524-f317b2a2-2308-4477-b5a6-8a9f0d4fc25d.png)
 
 ## Rule 3 (maximal flow-intercepting rule):      
-under a certain number of links to be observed, the chosen links should **intercept as many flows as possible**.  
+Under a certain number of links to be observed, the chosen links should **intercept as many flows as possible**.  
 
 ![image](https://user-images.githubusercontent.com/88390140/132033555-42116553-1dfe-4ded-b68f-40485c0ee3de.png)
   
