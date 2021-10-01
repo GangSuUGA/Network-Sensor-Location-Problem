@@ -50,10 +50,11 @@ For a particular O-D pair, the traffic counting points on a road network should 
 ![image](https://user-images.githubusercontent.com/88390140/135644290-26b1f134-f2bb-433b-8a0b-716224ed4a60.png)    
 ![image](https://user-images.githubusercontent.com/88390140/135644613-5be1512a-6bb7-4b82-b8de-d1e1c00364f5.png)
 
-For example, the set of (d;e) is less desirable than (a;b) and (c;d), because the latter can intercept all flows through the network.        
+- Observation: For example, the set of (d;e) is less desirable than (a;b) and (c;d), because the latter can intercept all flows through the network.        
 ## Rule 3 (maximal flow-intercepting rule):      
 Under a certain number of links to be observed, the chosen links should **intercept as many flows as possible**. 
 
+## Observation: 
 Because the flow conservation equation (like Va + Vb = Vc + Vd), links a, b, c and d should not be chosen simultaneously. In this situation, ![image](https://user-images.githubusercontent.com/88390140/135645677-9fef6a54-ab37-45df-80b0-417ebdf84b45.png) will become linearly dependent.     
       
 ## Rule 4 (link independence rule):     
