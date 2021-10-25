@@ -5,6 +5,9 @@
 
 _______________________________________
 
+[**MolGAN: An implicit generative model for small molecular graphs**](https://arxiv.org/pdf/1805.11973.pdf) 
+
+
 
 
 
