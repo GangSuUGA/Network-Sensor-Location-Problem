@@ -47,7 +47,7 @@ It is always possible to partition A into two matrices B and N, where B is an n-
 ![image](https://user-images.githubusercontent.com/88390140/131424603-d23982f1-d893-4a9e-b220-8882fde1d2a7.png)
 The Vehicular flows on the links (13, 14, 35, 36, 47) can be infered from the sensor measurements on the remainder of the links via 
 ![image](https://user-images.githubusercontent.com/88390140/131422965-f927162c-5430-4741-8619-91889728077d.png)
-The matrix B is not unique, another solution is (36, 47, 57, 69, 79). 
+The matrix B is not unique, another solution is (23, 24, 35, 36, 47). 
 
 ## Proposition 2
 (Minimum number of sensors for full observability). Given a transporation network G = (V*, E). In order to observe all link flows in G, at a minimum, sensors need to be installed on (m-n)/m * 100% of the links. 
