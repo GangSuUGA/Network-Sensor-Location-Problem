@@ -34,7 +34,7 @@ The Maximum Possible Average Relative Error can be extended to incorporate other
 ![image](https://user-images.githubusercontent.com/88390140/135631940-b6507272-f01a-4b2b-a605-85181581a582.png)       
 In this situation, ![image](https://user-images.githubusercontent.com/88390140/135632115-24ef37d0-fa62-4978-af04-9752db8af352.png) is unbounded, which also means the trips between the jth OD pair do not pass over any of the observed links. In other words, if there are no traffic counters to observe this OD pair, the corresponding ![image](https://user-images.githubusercontent.com/88390140/135632115-24ef37d0-fa62-4978-af04-9752db8af352.png) will become infinite.         
 On the contray, ![image](https://user-images.githubusercontent.com/88390140/135632597-5044669f-072f-4ece-b5bd-d7ab60406d55.png)      
-In other words, if there is at least one traffic counter to observe this OD pair, the corresponding ![image](https://user-images.githubusercontent.com/88390140/135632115-24ef37d0-fa62-4978-af04-9752db8af352.png) will become infinite.
+In other words, if there is at least one traffic counter to observe this OD pair, the corresponding ![image](https://user-images.githubusercontent.com/88390140/135632115-24ef37d0-fa62-4978-af04-9752db8af352.png) will become finite.
 
 ## Rule 1 (O-D covering rule):     
 The traffic counting points on a road network should be located so that **a certain portion of trips between any O-D pair will be observed**.       
