@@ -12,10 +12,5 @@ ________________________________________________________________________________
       How to choose sensor locations to improve the quality of flows estimates (e.g., OD demands, link/route flows)?    
 
 ![image](https://ars.els-cdn.com/content/image/1-s2.0-S0191261516000436-gr1.jpg)      
-Fig.  Classification of studies on the network sensor location problem ([**X. Xu et al., 2016**](https://www.sciencedirect.com/science/article/pii/S0191261516000436?via%3Dihub)).     
-## Types of sensors    
----------|Counting Sensors|Path-ID Sensors|Image Sensors|Vehicle-ID Sensors
----------|------|--------|-------|--------|
-Ratio    |
-
+Fig.  Classification of studies on the network sensor location problem ([**X. Xu et al., 2016**](https://www.sciencedirect.com/science/article/pii/S0191261516000436?via%3Dihub)). 
 
