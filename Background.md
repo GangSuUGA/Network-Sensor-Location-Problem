@@ -1,6 +1,9 @@
 ## Resources Link:
- - [**MATSim training (YouTube Videos)**](https://www.youtube.com/watch?v=y3T_DaDA3_c&list=PLLGIZCXnKbU6-9vy_rKZ6gW7E_ra42hfX) (Figures from) 
+ - [**Figures From**](https://www.youtube.com/watch?v=y3T_DaDA3_c&list=PLLGIZCXnKbU6-9vy_rKZ6gW7E_ra42hfX) (Figures from) 
  - [**Traffic Forecasting Resource**](https://tfresource.org/) 
+ - Bell, M. G. H. and Yasunori Iida. “[**Transportation Network Analysis**](https://www.wiley.com/en-us/exportProduct/pdf/9780471964933).” (1997). (Chapter 7)   
+ - [**Multiple Traffic Data Sources**](https://github.com/GangSuUGA/The-Optimization-of-Sensor-Location/blob/main/MultiSources.md) 
+
 _______________________________________________
 
 ## Why do we model? 
@@ -37,4 +40,20 @@ Mode Choice predicts the choices that individuals or groups make in selecting th
 
  - **Step 4: Traffic Assignment. – What is the route/link of each trip?**     
 In the traffic assignment the OD-matrix for each mode is assigned onto the traffic network according to "User Equilibrium" (opposed to System Equilibrium), since each user chooses the route self-interest.  
+
+________________________________
+
+## Motivation: 
+- Nowadays, indirect link counting measurements still take the advantages (easier/timely) to get the O-D trip information than other direct measurements (Household travel surveys, Mobile phone, GPS). 
+
+
+## How to infer O-D from Traffic Count? 
+- **Maximum Entropy** 
+- **A Generalised Least Squares** 
+- **Bi-Level Programming** 
+- **Linear Path Flow Estimation** 
+- **Log-Linear Path Flow Estimation** 
+- **Time-Dependent Methods** 
+
+![image](https://user-images.githubusercontent.com/88390140/135630187-37700680-c890-4961-b7b9-562c61e7a151.png)
 
