@@ -1,7 +1,7 @@
 #### Paper Link:
  - Wu, Xin et al. “[**Hierarchical travel demand estimation using multiple data sources: A forward and backward propagation algorithmic framework on a layered computational graph**](https://www.sciencedirect.com/science/article/pii/S0968090X18306685#f0015).” Transportation Research Part C-emerging Technologies 96 (2018): 321-346. 
- - https://www.bilibili.com/video/BV14g411L7rL?from=search&seid=3384406637636649164&spm_id_from=333.337.0.0
-___________________________________________________________________________________________________________________________________________________________________________________
+ - [**Video**](https://www.bilibili.com/video/BV14g411L7rL?from=search&seid=3384406637636649164&spm_id_from=333.337.0.0)
+_________________________________________________________________________________________________________________________________
 
 The overarching rationale of transportation system intelligence is that developments in **sensing, cyber-physical infrastructures, and crowdsouring big data technologies** can be integrated to effecitive use for improving the performance of transportation systems.    
 
