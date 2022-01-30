@@ -43,10 +43,6 @@ In the traffic assignment the OD-matrix for each mode is assigned onto the traff
 
 ________________________________
 
-## Motivation: 
-- Nowadays, indirect link counting measurements still take the advantages (easier/timely) to get the O-D trip information than other direct measurements (Household travel surveys, Mobile phone, GPS). 
-
-
 ## How to infer O-D from Traffic Count? 
 - **Maximum Entropy** 
 - **A Generalised Least Squares** 
