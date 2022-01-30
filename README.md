@@ -11,6 +11,4 @@ ____________________________________
       How to choose sensor locations to improve the quality of flows estimates (e.g., OD demands, link/route flows, travel time)?    
  - The sensor location **Flow-Prediction Problem**:
 
-
-![image](https://ars.els-cdn.com/content/image/1-s2.0-S0191261516000436-gr1.jpg)      
-Fig.  Classification of studies on the network sensor location problem ([**X. Xu et al., 2016**](https://www.sciencedirect.com/science/article/pii/S0191261516000436?via%3Dihub)).     
+![image](https://user-images.githubusercontent.com/88390140/151714496-ab3f241e-fb61-404d-a557-9e13afc1b808.png)
