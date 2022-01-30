@@ -5,11 +5,13 @@
  - Gentili, M. and P. Mirchandani. “[**Review of optimal sensor location models for travel time estimation**](https://www.sciencedirect.com/science/article/pii/S0968090X18300688?via%3Dihub).” Transportation Research Part C-emerging Technologies 90 (2018): 74-96.
 ____________________________________________________________________________________________________________________________________________________________________________
 
-# The-Optimization-of-Sensor-Location
- - The sensor location **flow-observability problem**:      
-      What is the minimum number of sensors and where to locate them in order to obtain the unique solution?              
- - The sensor location **flow-estimation problem**:      
-      How to choose sensor locations to improve the quality of flows estimates (e.g., OD demands, link/route flows)?    
+# Network Sensor Location Problem
+### How to optimze the number and location of sensors on a network. 
+
+ - **Flow Observability problem**:      
+      Increase the coverage by exact link inference.              
+ - **Flow Estimation problem**:      
+      Improve the quality of flows estimates.     
 
 ![image](https://ars.els-cdn.com/content/image/1-s2.0-S0191261516000436-gr1.jpg)      
 Fig.  Classification of studies on the network sensor location problem ([**X. Xu et al., 2016**](https://www.sciencedirect.com/science/article/pii/S0191261516000436?via%3Dihub)). 
