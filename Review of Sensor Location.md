@@ -6,7 +6,7 @@
 ____________________________________________________________________________________________________________________________________________________________________________
 
 # Network Sensor Location Problem
-### How to optimze the number and location of sensors on a network. 
+### Definition: How to optimze the number and location of sensors on a network?  
 
  - **Flow Observability problem**:      
       Increase the coverage by exact link inference.              
