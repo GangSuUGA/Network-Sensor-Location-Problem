@@ -12,7 +12,5 @@ ________________________________________________________________________________
       Increase the coverage by exact link inference.              
  - **Flow Estimation problem**:      
       Improve the quality of flows estimates.     
-
-![image](https://ars.els-cdn.com/content/image/1-s2.0-S0191261516000436-gr1.jpg)      
-Fig.  Classification of studies on the network sensor location problem ([**X. Xu et al., 2016**](https://www.sciencedirect.com/science/article/pii/S0191261516000436?via%3Dihub)). 
-
+ 
+ ![image](https://user-images.githubusercontent.com/88390140/151714472-6f615c53-f81e-4a84-b3f4-6a09c798adbe.png)
