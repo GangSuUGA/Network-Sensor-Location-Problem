@@ -34,7 +34,7 @@ The total number of observed and inferred links connected to each node is equal 
 ## Link Flow Observability, Inference and Estimation 
 - In this situation, the budget is less than the optimal number of sensors. 
 - We assume that some link flow samples are available from the transportation network, like using temporary portable sensors. 
-- **These samples can be used as prior information to construct connections between non-inferred links and inferred links:**
+- **These samples can be used as prior information to construct connections between non-inferred links and inferred links:**                 
 for example, linear regression. ![image](https://user-images.githubusercontent.com/88390140/151863487-9878254f-4e18-4daa-b7e0-2a9e3bc2b3cf.png)
   
 
