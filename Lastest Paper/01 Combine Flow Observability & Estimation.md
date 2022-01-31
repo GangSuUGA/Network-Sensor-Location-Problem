@@ -25,7 +25,10 @@ __________________________________________________
 
 ### Conclusion: 
 - The objective function of our sensor location model is to minimize the installation cost of sensors for full link flow observability and inference, where C_ij is the unit cost for locating and maintaining sensors on link (i,j). Basic Model (BM): 
-![image](https://user-images.githubusercontent.com/88390140/151836503-f11200ef-3e8e-4d7a-8a2c-9f44eb52faf3.png)
+![image](https://user-images.githubusercontent.com/88390140/151836503-f11200ef-3e8e-4d7a-8a2c-9f44eb52faf3.png)   
+- We observe that in the absence of any cycles in the network (first network in figure), the priority variables Z_ij, which associated with constraints (3) and (4) and the linear constraints (7)-(14), are useless and can be removed to simplify our model. 
+- When the total number of sensors is less than the optimal objective function value of BM, this indicates that full observability connot be achieved. 
+- Hence, the paper extend model to bridge flow estimation via linear regression. 
 
 
 
