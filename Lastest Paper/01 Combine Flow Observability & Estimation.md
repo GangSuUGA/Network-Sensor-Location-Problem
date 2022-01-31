@@ -2,7 +2,7 @@
  - N. Zhu et al. (2021) [**A network sensor location problem for link flow observability and estimation**](https://www.sciencedirect.com/science/article/abs/pii/S0377221721008870)
 __________________________________________________
 
-## FLow Observability 
+## Full FLow Observability 
 ![image](https://user-images.githubusercontent.com/88390140/151836820-eb9855ac-ad9f-4d12-ace8-bb93716ada38.png)![image](https://user-images.githubusercontent.com/88390140/151826236-2eaf206f-b06b-4445-a08f-e8755f1ad3ae.png)
             
 ![image](https://user-images.githubusercontent.com/88390140/151827085-b8386ca2-b813-4bba-945d-9ca08b884697.png)![image](https://user-images.githubusercontent.com/88390140/151827130-a931b865-dc9c-4875-94dd-24eb7a316272.png)![image](https://user-images.githubusercontent.com/88390140/151827172-5fcf3234-eb77-497a-b53f-69f3334bc33b.png)![image](https://user-images.githubusercontent.com/88390140/151838589-4b71fe24-9827-4d8d-97be-dc0339132602.png)
@@ -31,7 +31,12 @@ The total number of observed and inferred links connected to each node is equal 
 - Hence, the paper extend model to bridge flow estimation via linear regression. 
 
 
-
+## Link Flow Observability, Inference and Estimation 
+- In this situation, the budget is less than the optimal number of sensors. 
+- We assume that some link flow samples are available from the transportation network, like using temporary portable sensors. 
+- **These samples can be used as prior information to construct connections between non-inferred links and inferred links:**
+for example, linear regression. ![image](https://user-images.githubusercontent.com/88390140/151863487-9878254f-4e18-4daa-b7e0-2a9e3bc2b3cf.png)
+  
 
 
 
