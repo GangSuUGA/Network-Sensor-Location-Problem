@@ -11,7 +11,7 @@ ____________________________________
       Increase the coverage by exact link inference.              
  - **Flow Estimation problem**:      
       Improve the quality of flows estimates.    
- - **Flow-Prediction Problem**:
+ - **Flow Prediction Problem**:
 
 ![image](https://user-images.githubusercontent.com/88390140/151714496-ab3f241e-fb61-404d-a557-9e13afc1b808.png)
 
