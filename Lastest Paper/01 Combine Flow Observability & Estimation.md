@@ -24,7 +24,7 @@ __________________________________________________
 ![image](https://user-images.githubusercontent.com/88390140/151836166-898dec1b-8d24-4d24-b950-1c62939a9d25.png)
 
 ### Conclusion: 
-- The objective function of our sensor location model is to minimize the installation cost of sensors for full link flow observability and inference, where C_ij is the unit cost for locating and maintaining sensors on link (i,j). 
+- The objective function of our sensor location model is to minimize the installation cost of sensors for full link flow observability and inference, where C_ij is the unit cost for locating and maintaining sensors on link (i,j). Basic Model (BM): 
 ![image](https://user-images.githubusercontent.com/88390140/151836503-f11200ef-3e8e-4d7a-8a2c-9f44eb52faf3.png)
 
 
