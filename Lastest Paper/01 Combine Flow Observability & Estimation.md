@@ -15,7 +15,7 @@ __________________________________________________
 ![image](https://user-images.githubusercontent.com/88390140/151835701-239c8ac0-6d67-46b0-87af-968bfd7b21b7.png)          
 - Inference Constraint: ![image](https://user-images.githubusercontent.com/88390140/151835744-74cabf16-b77d-418f-a363-b2e445fb9788.png) ![image](https://user-images.githubusercontent.com/88390140/151829241-8b6c92a0-d88b-4460-8e4e-04321498b33f.png)
 
-- Degree Constraint: 
+- Degree Constraint:             
 The total number of observed and inferred links connected to each node is equal to the degree of that node. (**More details in paper**) ![image](https://user-images.githubusercontent.com/88390140/151835534-2273f462-9bf3-4484-8e9c-2b94f0e5eeb2.png)
 ![image](https://user-images.githubusercontent.com/88390140/151835587-8e2068c6-f5c5-4424-b0df-f07f50161533.png)
 
