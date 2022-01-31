@@ -12,9 +12,12 @@ __________________________________________________
 
 - State Constraint: under the condition of full observability, a link should be in either the observed state or the inferred state. 
 ![image](https://user-images.githubusercontent.com/88390140/151826273-3bb8971b-19d6-4bbf-9f74-2ebe7f2c404f.png)    
-- Inference Constraint: ![image](https://user-images.githubusercontent.com/88390140/151826318-fb2b1890-a4ea-4c62-896c-9efbc3beca98.png)
-- Degree Constraint: 
+- Inference Constraint: ![image](https://user-images.githubusercontent.com/88390140/151826318-fb2b1890-a4ea-4c62-896c-9efbc3beca98.png) ![image](https://user-images.githubusercontent.com/88390140/151829241-8b6c92a0-d88b-4460-8e4e-04321498b33f.png)
+
+- Degree Constraint: the total number of observed and inferred links connected to each node is equal to the degree of that node. ![image](https://user-images.githubusercontent.com/88390140/151834064-4f0fd538-fc80-4546-8ac8-e6602680228f.png)
+
 - Single-link Constraint: 
+
 
 
 
