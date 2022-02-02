@@ -31,6 +31,8 @@ The total number of observed and inferred links connected to each node is equal 
 - Hence, the paper extend model to bridge flow estimation via linear regression. 
 
 
+__________________________________________________
+
 ## Link Flow Observability, Inference and Estimation 
 - In this situation, the budget is less than the optimal number of sensors. 
 - We assume that some link flow samples are available from the transportation network, like using temporary portable sensors. 
