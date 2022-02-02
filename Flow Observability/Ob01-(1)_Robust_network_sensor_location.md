@@ -4,7 +4,7 @@
 ___________________________________________
 
 **Note:**  
-- **There are different ways to construct the set of new links. We could rank the nodes according to their relative importance (e.g., Ivanchev et al., 2016 ), spatial location, or some particular purposes for traffic agency**     
+- **There are different ways to construct the set of new links. We could rank the nodes according to their relative importance, spatial location, or some particular purposes for traffic agency**     
 
 In this paper, the author provide a **robust** network sensor location model for complete link flow inference via a node-based approach while **considering the propagation of measurement errors**. 
 
