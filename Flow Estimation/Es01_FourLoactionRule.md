@@ -1,7 +1,6 @@
 #### Paper Link:
  - Yang, Hai et al. “[**An analysis of the reliability of an origin-destination trip matrix estimated from traffic counts**](https://www.sciencedirect.com/science/article/pii/019126159190028H?pes=vor).” Transportation Research Part B-methodological 25 (1991): 351-363.       
  - Yang, Hai and J. Zhou. “[**Optimal traffic counting locations for origin–destination matrix estimation**](https://www.sciencedirect.com/science/article/pii/S0191261597000167?via%3Dihub).” Transportation Research Part B-methodological 32 (1998): 109-126.
- - [**Background: OD Trip Table Estimation**](https://github.com/GangSuUGA/The-Optimization-of-Sensor-Location/blob/main/Background02:%20Trip%20Table%20Estimation.md) 
 __________________________________________________
 
 ## Motivation 
