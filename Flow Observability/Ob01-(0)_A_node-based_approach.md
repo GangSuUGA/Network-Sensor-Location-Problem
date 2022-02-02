@@ -5,7 +5,7 @@
 _______________________________________________________________________________________
 
 **Note:** 
- - **In the node-based approach, the number of installed sensor is fixed after the numbers of noncentorids and links are given.**   
+ - **In the node-based approach, number of sensors = number of links - number of non-centroid nodes.**   
  - **Vanilla node-based approach usually produce many alternative solutions which meet the requirement of finding invertible matrix.** 
 
 ![image](https://user-images.githubusercontent.com/88390140/133832144-76eade33-c13b-420d-9b17-943956254d4b.png)
