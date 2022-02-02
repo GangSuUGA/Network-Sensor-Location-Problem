@@ -1,8 +1,8 @@
 #### Paper Link:
  - Xu, Xiangdong et al. “[Robust network sensor location for complete link flow observability under uncertainty](https://www.sciencedirect.com/science/article/pii/S0191261516000436?via%3Dihub).” Transportation Research Part B-methodological 88 (2016): 1-20. 
- - [**Prerequisite**](https://github.com/GangSuUGA/The-Optimization-of-Sensor-Location/blob/main/Ob01_A_node-based_approach.md)
  - [**Implement Code**](https://github.com/GangSuUGA/The-Optimization-of-Sensor-Location/blob/main/PuLP%20examples/Example%20Robust%20node-based%20approach.ipynb)
-___________________________________________________________________________________________________________________________________________________________________________________
+___________________________________________
+
 **Note:**  
 - **There are different ways to construct the set of new links. We could rank the nodes according to their relative importance (e.g., Ivanchev et al., 2016 ), spatial location, or some particular purposes. However, the exact traffic volume is not needed.**        
 - **This method produce alternative schemes.**  
