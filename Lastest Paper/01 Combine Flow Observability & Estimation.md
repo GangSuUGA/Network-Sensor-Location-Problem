@@ -37,7 +37,12 @@ __________________________________________________
 - In this situation, the budget is less than the optimal number of sensors. 
 - We assume that some link flow samples are available from the transportation network, like using temporary portable sensors. 
 - **These samples can be used as prior information to construct connections between non-inferred links and inferred links:**                 
-for example, linear regression. ![image](https://user-images.githubusercontent.com/88390140/151863487-9878254f-4e18-4daa-b7e0-2a9e3bc2b3cf.png)
+for example, linear regression. ![image](https://user-images.githubusercontent.com/88390140/151863487-9878254f-4e18-4daa-b7e0-2a9e3bc2b3cf.png) 
+- New budget constraint: ![image](https://user-images.githubusercontent.com/88390140/152266183-8a77e383-c0ca-47f9-8d46-1e35e5b794e5.png)
+- An additional binary variable u_ij is introduced (noninferred): ![image](https://user-images.githubusercontent.com/88390140/152266210-41e2f746-8718-4111-802d-f33ba6361c04.png)
+- **LAD regression model**:             
+![image](https://user-images.githubusercontent.com/88390140/152267143-8a540321-074f-4463-b4cb-464a9c2852cc.png)
+
   
 
 
