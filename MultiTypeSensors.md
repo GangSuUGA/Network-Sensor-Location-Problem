@@ -3,13 +3,9 @@
  - [**Video**](https://www.bilibili.com/video/BV14g411L7rL?from=search&seid=3384406637636649164&spm_id_from=333.337.0.0)
 _________________________________________________________________________________________________________________________________
 
-The overarching rationale of transportation system intelligence is that developments in **sensing, cyber-physical infrastructures, and crowdsouring big data technologies** can be integrated to effecitive use for improving the performance of transportation systems.    
+- The overarching rationale of transportation system intelligence is that developments in **sensing, cyber-physical infrastructures, and crowdsouring big data technologies** can be integrated to effecitive use for improving the performance of transportation systems.     
 
-**Early "traffic demand flow estimation" model focus on estimating origin/destination (OD) matrices from traffic counts.**     
-
-**This paper first proposes a multi-layered Hierarchical Flow Network (HFN) to structurally model different levels of travel demand variables using multiple data sourses.** 
-
-The demand variables including trip generatin, origin/destination matrices, path/link flow, and individual behavior parameters. 
+- **This paper first proposes a multi-layered Hierarchical Flow Network (HFN) to structurally model different levels of travel demand variables using multiple data sourses.** 
 
 ## Multiple data sources:    
 
