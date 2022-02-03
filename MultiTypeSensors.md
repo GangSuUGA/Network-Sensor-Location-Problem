@@ -7,9 +7,9 @@ The overarching rationale of transportation system intelligence is that developm
 
 **Early "traffic demand flow estimation" model focus on estimating origin/destination (OD) matrices from traffic counts.**     
 
-**This paper first proposes a multi-layered Hierarchical Flow Network (HFN) to structurally model different levels of travel demand variables using multiple data sourses. 
+**This paper first proposes a multi-layered Hierarchical Flow Network (HFN) to structurally model different levels of travel demand variables using multiple data sourses.** 
 
-The demand variables including trip generatin, origin/destination matrices, path/link flow, and individual behavior parameters. ([**traffic four step**](https://github.com/GangSuUGA/The-Optimization-of-Sensor-Location/blob/main/Background_Traffic_ODmatrix.md))       
+The demand variables including trip generatin, origin/destination matrices, path/link flow, and individual behavior parameters. 
 
 ## Multiple data sources:    
 
