@@ -1,7 +1,6 @@
 ## Resources Link:
  - [**Figures From**](https://www.youtube.com/watch?v=y3T_DaDA3_c&list=PLLGIZCXnKbU6-9vy_rKZ6gW7E_ra42hfX)  
  - [**Traffic Forecasting Resource**](https://tfresource.org/) 
- - Bell, M. G. H. and Yasunori Iida. “[**Transportation Network Analysis**](https://www.wiley.com/en-us/exportProduct/pdf/9780471964933).” (1997). (Chapter 7) 
 _______________________________________________
 
 ## Why do we model? 
@@ -40,6 +39,8 @@ Mode Choice predicts the choices that individuals or groups make in selecting th
 In the traffic assignment the OD-matrix for each mode is assigned onto the traffic network according to "User Equilibrium" (opposed to System Equilibrium), since each user chooses the route self-interest.  
 
 ________________________________
+
+ - Bell, M. G. H. and Yasunori Iida. “[**Transportation Network Analysis**](https://www.wiley.com/en-us/exportProduct/pdf/9780471964933).” (1997). (Chapter 7) 
 
 ## How to infer O-D from Traffic Count? 
 - **Maximum Entropy** 
