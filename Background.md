@@ -1,6 +1,6 @@
 ## Resources Link:  
  - [**Traffic Forecasting Resource**](https://tfresource.org/) 
- -  - [**Figures Sources**](https://www.youtube.com/watch?v=y3T_DaDA3_c&list=PLLGIZCXnKbU6-9vy_rKZ6gW7E_ra42hfX)
+ - [**Figure Sources**](https://www.youtube.com/watch?v=y3T_DaDA3_c&list=PLLGIZCXnKbU6-9vy_rKZ6gW7E_ra42hfX)
 _______________________________________________
 
 ## Why do we model? 
