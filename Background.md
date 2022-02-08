@@ -43,8 +43,8 @@ ________________________________
  - Bell, M. G. H. and Yasunori Iida. “[**Transportation Network Analysis**](https://www.wiley.com/en-us/exportProduct/pdf/9780471964933).” (1997). (Chapter 7) 
 
 ## Introduction: 
-- Origin-Destination provide information of traffic demands on the number of travelers that commute or the amount of freight shipped between differrent traffic analysis zones (TAZ). 
-- OD is difficult to obtain by direct measurements/household surveys, but by using traffic counts and other available information one may obtain a "reasonable" estimate. 
+- Origin-Destination (OD) matrix provide information of traffic demands on the number of travelers that commute or the amount of freight shipped between differrent traffic analysis zones (TAZ). 
+- OD matrix is difficult to obtain by direct measurements/household surveys, but by using traffic counts and other available information one may obtain a "reasonable" estimate. 
 ## How to infer O-D from Traffic Count? 
 - **Maximum Entropy** 
 - **A Generalised Least Squares** 
