@@ -45,6 +45,12 @@ ________________________________
 ## Introduction: 
 - Origin-Destination (OD) matrix provide information of traffic demands on the number of travelers that commute or the amount of freight shipped between differrent traffic analysis zones (TAZ). 
 - OD matrix is difficult to obtain by direct measurements/household surveys, but by using traffic counts and other available information one may obtain a "reasonable" estimate. 
+- Assigning an OD matrix to a transportation network means that the demand for traffic between every pair of zones is allocated to available routes connecting the zonal pairs. 
+- From the assignment of the OD matrix one thus obtain the traffic volume on each link. 
+- The "inverse" of the asssignment problem: find an OD matrix which reproduces the observed traffic counts. 
+- Normally there is a large number of different OD matrices which reproduce the observed traffic counts. 
+
+
 ## How to infer O-D from Traffic Count? 
 - **Maximum Entropy** 
 - **A Generalised Least Squares** 
