@@ -39,9 +39,12 @@ Mode Choice predicts the choices that individuals or groups make in selecting th
 In the traffic assignment the OD-matrix for each mode is assigned onto the traffic network according to "User Equilibrium" (opposed to System Equilibrium), since each user chooses the route self-interest.  
 
 ________________________________
-
+ - Torgil Abrahamsson (1998). [**Estimation of Origin-Destination Matrices Using Traffic Counts – A Literature Survey**](http://pure.iiasa.ac.at/id/eprint/5627/1/IR-98-021.pdf)
  - Bell, M. G. H. and Yasunori Iida. “[**Transportation Network Analysis**](https://www.wiley.com/en-us/exportProduct/pdf/9780471964933).” (1997). (Chapter 7) 
 
+## Introduction: 
+- Origin-Destination provide information of traffic demands on the number of travelers that commute or the amount of freight shipped between differrent traffic analysis zones (TAZ). 
+- OD is difficult to obtain by direct measurements/household surveys, but by using traffic counts and other available information one may obtain a "reasonable" estimate. 
 ## How to infer O-D from Traffic Count? 
 - **Maximum Entropy** 
 - **A Generalised Least Squares** 
