@@ -48,8 +48,8 @@ ________________________________
 - Assigning an OD matrix to a transportation network means that the demand for traffic between every pair of zones is allocated to available routes connecting the zonal pairs. 
 - From the assignment of the OD matrix one thus obtain the traffic volume on each link. 
 - The "inverse" of the asssignment problem: find an OD matrix which reproduces the observed traffic counts. 
-- Normally there is a large number of different OD matrices which reproduce the observed traffic counts. 
-
+- Normally there is a large number of different OD matrices which reproduce the observed traffic counts. The related equation system is underspecified (or degenerate) and may have many possible solutions. 
+- One may thus ask for the most "likely" or "best" OD matrix causing the observed traffic counts. 
 
 ## How to infer O-D from Traffic Count? 
 - **Maximum Entropy** 
