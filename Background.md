@@ -51,7 +51,7 @@ ________________________________
 - Normally there is a large number of different OD matrices which reproduce the observed traffic counts. The related equation system is underspecified (or degenerate) and may have many possible solutions. 
 - One may thus ask for the most "likely" or "best" OD matrix causing the observed traffic counts. 
 
-## How to infer O-D from Traffic Count? 
+## How to infer O-D from Traffic Count? (static)
 - **Maximum Entropy** 
 - **A Generalised Least Squares** 
 - **Bi-Level Programming** 
