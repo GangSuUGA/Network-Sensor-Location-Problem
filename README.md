@@ -2,7 +2,7 @@
 There is a growing appreciation of the importance in developed societies of networks (or lifelines) of various kinds, such as water supply, energy supply, sewage disposal, communication and of course transportation. Monitoring and analyzing those big spatiotemporal data is vital importance of the planning and management in smart city. Sensors as the main means to supply such information become growing critical in the modern computational intelligence. With the limited budget, the problem of how to optimally locate sensors on a network is our focus. 
 ____________________________________
 
-# Network Sensor Location Problem
+# Literature Review for Network Sensor Location Problem
 ### Definition: How to optimze the number and location of sensors on a network?  
 
  - **Flow Observability problem**:      
